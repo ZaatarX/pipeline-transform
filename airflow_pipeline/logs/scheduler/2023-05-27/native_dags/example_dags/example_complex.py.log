@@ -1,0 +1,357 @@
+[2023-05-26 22:03:25,513] {processor.py:153} INFO - Started process (PID=25902) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:03:25,513] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:03:25,514] {logging_mixin.py:115} INFO - [2023-05-26 22:03:25,514] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:03:25,548] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:03:25,630] {logging_mixin.py:115} INFO - [2023-05-26 22:03:25,630] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:03:25,652] {logging_mixin.py:115} INFO - [2023-05-26 22:03:25,652] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:03:25,712] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.204 seconds
+[2023-05-26 22:04:01,880] {processor.py:153} INFO - Started process (PID=26245) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:04:01,887] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:04:01,887] {logging_mixin.py:115} INFO - [2023-05-26 22:04:01,887] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:04:01,896] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:04:01,912] {logging_mixin.py:115} INFO - [2023-05-26 22:04:01,912] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:04:01,927] {logging_mixin.py:115} INFO - [2023-05-26 22:04:01,927] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:04:01,944] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2023-05-26 22:04:35,987] {processor.py:153} INFO - Started process (PID=26353) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:04:35,989] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:04:35,990] {logging_mixin.py:115} INFO - [2023-05-26 22:04:35,990] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:04:35,999] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:04:36,016] {logging_mixin.py:115} INFO - [2023-05-26 22:04:36,015] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:04:36,030] {logging_mixin.py:115} INFO - [2023-05-26 22:04:36,030] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:04:36,057] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2023-05-26 22:05:10,444] {processor.py:153} INFO - Started process (PID=26669) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:05:10,452] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:05:10,453] {logging_mixin.py:115} INFO - [2023-05-26 22:05:10,453] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:05:10,470] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:05:10,519] {logging_mixin.py:115} INFO - [2023-05-26 22:05:10,518] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:05:10,548] {logging_mixin.py:115} INFO - [2023-05-26 22:05:10,548] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:05:10,592] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.152 seconds
+[2023-05-26 22:05:45,507] {processor.py:153} INFO - Started process (PID=26922) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:05:45,516] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:05:45,516] {logging_mixin.py:115} INFO - [2023-05-26 22:05:45,516] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:05:45,534] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:05:45,558] {logging_mixin.py:115} INFO - [2023-05-26 22:05:45,558] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:05:45,580] {logging_mixin.py:115} INFO - [2023-05-26 22:05:45,580] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:05:45,606] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2023-05-26 22:06:20,464] {processor.py:153} INFO - Started process (PID=27017) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:06:20,475] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:06:20,475] {logging_mixin.py:115} INFO - [2023-05-26 22:06:20,475] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:06:20,488] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:06:20,508] {logging_mixin.py:115} INFO - [2023-05-26 22:06:20,508] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:06:20,526] {logging_mixin.py:115} INFO - [2023-05-26 22:06:20,526] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:06:20,549] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2023-05-26 22:06:56,526] {processor.py:153} INFO - Started process (PID=27215) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:06:56,537] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:06:56,538] {logging_mixin.py:115} INFO - [2023-05-26 22:06:56,537] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:06:56,546] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:06:56,562] {logging_mixin.py:115} INFO - [2023-05-26 22:06:56,562] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:06:56,576] {logging_mixin.py:115} INFO - [2023-05-26 22:06:56,576] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:06:56,594] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-05-26 22:07:31,627] {processor.py:153} INFO - Started process (PID=27302) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:07:31,639] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:07:31,640] {logging_mixin.py:115} INFO - [2023-05-26 22:07:31,640] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:07:31,649] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:07:31,672] {logging_mixin.py:115} INFO - [2023-05-26 22:07:31,672] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:07:31,703] {logging_mixin.py:115} INFO - [2023-05-26 22:07:31,703] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:07:31,756] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.132 seconds
+[2023-05-26 22:08:06,319] {processor.py:153} INFO - Started process (PID=27388) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:08:06,334] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:08:06,334] {logging_mixin.py:115} INFO - [2023-05-26 22:08:06,334] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:08:06,343] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:08:06,358] {logging_mixin.py:115} INFO - [2023-05-26 22:08:06,358] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:08:06,372] {logging_mixin.py:115} INFO - [2023-05-26 22:08:06,372] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:08:06,390] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2023-05-26 22:08:39,439] {processor.py:153} INFO - Started process (PID=27527) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:08:39,458] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:08:39,458] {logging_mixin.py:115} INFO - [2023-05-26 22:08:39,458] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:08:39,467] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:08:39,483] {logging_mixin.py:115} INFO - [2023-05-26 22:08:39,483] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:08:39,497] {logging_mixin.py:115} INFO - [2023-05-26 22:08:39,497] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:08:39,516] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2023-05-26 22:09:14,548] {processor.py:153} INFO - Started process (PID=27615) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:09:14,552] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:09:14,553] {logging_mixin.py:115} INFO - [2023-05-26 22:09:14,553] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:09:14,564] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:09:14,583] {logging_mixin.py:115} INFO - [2023-05-26 22:09:14,583] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:09:14,600] {logging_mixin.py:115} INFO - [2023-05-26 22:09:14,600] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:09:14,627] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2023-05-26 22:09:46,958] {processor.py:153} INFO - Started process (PID=27796) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:09:46,959] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:09:46,959] {logging_mixin.py:115} INFO - [2023-05-26 22:09:46,959] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:09:46,968] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:09:46,985] {logging_mixin.py:115} INFO - [2023-05-26 22:09:46,985] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:09:47,000] {logging_mixin.py:115} INFO - [2023-05-26 22:09:47,000] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:09:47,030] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2023-05-26 22:10:18,121] {processor.py:153} INFO - Started process (PID=27873) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:10:18,124] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:10:18,125] {logging_mixin.py:115} INFO - [2023-05-26 22:10:18,125] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:10:18,134] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:10:18,149] {logging_mixin.py:115} INFO - [2023-05-26 22:10:18,149] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:10:18,164] {logging_mixin.py:115} INFO - [2023-05-26 22:10:18,164] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:10:18,190] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-05-26 22:10:49,808] {processor.py:153} INFO - Started process (PID=27953) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:10:49,811] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:10:49,811] {logging_mixin.py:115} INFO - [2023-05-26 22:10:49,811] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:10:49,820] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:10:49,836] {logging_mixin.py:115} INFO - [2023-05-26 22:10:49,836] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:10:49,850] {logging_mixin.py:115} INFO - [2023-05-26 22:10:49,850] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:10:49,870] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2023-05-26 22:11:25,222] {processor.py:153} INFO - Started process (PID=28040) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:11:25,248] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:11:25,248] {logging_mixin.py:115} INFO - [2023-05-26 22:11:25,248] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:11:25,259] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:11:25,276] {logging_mixin.py:115} INFO - [2023-05-26 22:11:25,276] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:11:25,290] {logging_mixin.py:115} INFO - [2023-05-26 22:11:25,290] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:11:25,308] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2023-05-26 22:11:59,189] {processor.py:153} INFO - Started process (PID=28133) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:11:59,190] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:11:59,191] {logging_mixin.py:115} INFO - [2023-05-26 22:11:59,191] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:11:59,201] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:11:59,218] {logging_mixin.py:115} INFO - [2023-05-26 22:11:59,218] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:11:59,233] {logging_mixin.py:115} INFO - [2023-05-26 22:11:59,233] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:11:59,257] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-05-26 22:12:32,869] {processor.py:153} INFO - Started process (PID=28376) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:12:32,896] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:12:32,900] {logging_mixin.py:115} INFO - [2023-05-26 22:12:32,900] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:12:33,085] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:12:33,225] {logging_mixin.py:115} INFO - [2023-05-26 22:12:33,214] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:12:33,305] {logging_mixin.py:115} INFO - [2023-05-26 22:12:33,305] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:12:33,402] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.541 seconds
+[2023-05-26 22:13:06,196] {processor.py:153} INFO - Started process (PID=28458) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:13:06,203] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:13:06,203] {logging_mixin.py:115} INFO - [2023-05-26 22:13:06,203] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:13:06,212] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:13:06,228] {logging_mixin.py:115} INFO - [2023-05-26 22:13:06,228] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:13:06,243] {logging_mixin.py:115} INFO - [2023-05-26 22:13:06,243] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:13:06,266] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2023-05-26 22:13:40,767] {processor.py:153} INFO - Started process (PID=28596) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:13:40,786] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:13:40,787] {logging_mixin.py:115} INFO - [2023-05-26 22:13:40,787] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:13:40,797] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:13:40,815] {logging_mixin.py:115} INFO - [2023-05-26 22:13:40,815] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:13:40,832] {logging_mixin.py:115} INFO - [2023-05-26 22:13:40,832] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:13:40,851] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2023-05-26 22:14:14,278] {processor.py:153} INFO - Started process (PID=28680) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:14:14,279] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:14:14,279] {logging_mixin.py:115} INFO - [2023-05-26 22:14:14,279] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:14:14,288] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:14:14,310] {logging_mixin.py:115} INFO - [2023-05-26 22:14:14,309] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:14:14,329] {logging_mixin.py:115} INFO - [2023-05-26 22:14:14,329] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:14:14,363] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2023-05-26 22:14:47,544] {processor.py:153} INFO - Started process (PID=28763) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:14:47,564] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:14:47,565] {logging_mixin.py:115} INFO - [2023-05-26 22:14:47,565] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:14:47,574] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:14:47,591] {logging_mixin.py:115} INFO - [2023-05-26 22:14:47,591] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:14:47,611] {logging_mixin.py:115} INFO - [2023-05-26 22:14:47,611] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:14:47,631] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2023-05-26 22:15:21,177] {processor.py:153} INFO - Started process (PID=28844) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:15:21,198] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:15:21,198] {logging_mixin.py:115} INFO - [2023-05-26 22:15:21,198] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:15:21,208] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:15:21,224] {logging_mixin.py:115} INFO - [2023-05-26 22:15:21,224] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:15:21,240] {logging_mixin.py:115} INFO - [2023-05-26 22:15:21,240] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:15:21,257] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2023-05-26 22:15:56,205] {processor.py:153} INFO - Started process (PID=28931) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:15:56,229] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:15:56,229] {logging_mixin.py:115} INFO - [2023-05-26 22:15:56,229] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:15:56,238] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:15:56,255] {logging_mixin.py:115} INFO - [2023-05-26 22:15:56,255] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:15:56,271] {logging_mixin.py:115} INFO - [2023-05-26 22:15:56,271] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:15:56,289] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2023-05-26 22:16:31,450] {processor.py:153} INFO - Started process (PID=29018) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:16:31,474] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:16:31,475] {logging_mixin.py:115} INFO - [2023-05-26 22:16:31,475] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:16:31,484] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:16:31,501] {logging_mixin.py:115} INFO - [2023-05-26 22:16:31,501] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:16:31,519] {logging_mixin.py:115} INFO - [2023-05-26 22:16:31,519] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:16:31,538] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2023-05-26 22:17:02,749] {processor.py:153} INFO - Started process (PID=29098) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:17:02,775] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:17:02,775] {logging_mixin.py:115} INFO - [2023-05-26 22:17:02,775] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:17:02,784] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:17:02,801] {logging_mixin.py:115} INFO - [2023-05-26 22:17:02,801] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:17:02,817] {logging_mixin.py:115} INFO - [2023-05-26 22:17:02,817] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:17:02,837] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2023-05-26 22:17:34,854] {processor.py:153} INFO - Started process (PID=29175) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:17:34,855] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:17:34,855] {logging_mixin.py:115} INFO - [2023-05-26 22:17:34,855] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:17:34,865] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:17:34,881] {logging_mixin.py:115} INFO - [2023-05-26 22:17:34,881] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:17:34,897] {logging_mixin.py:115} INFO - [2023-05-26 22:17:34,897] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:17:34,926] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2023-05-26 22:18:08,568] {processor.py:153} INFO - Started process (PID=29259) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:18:08,572] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:18:08,572] {logging_mixin.py:115} INFO - [2023-05-26 22:18:08,572] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:18:08,581] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:18:08,598] {logging_mixin.py:115} INFO - [2023-05-26 22:18:08,598] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:18:08,614] {logging_mixin.py:115} INFO - [2023-05-26 22:18:08,614] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:18:08,638] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2023-05-26 22:18:42,091] {processor.py:153} INFO - Started process (PID=29392) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:18:42,092] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:18:42,092] {logging_mixin.py:115} INFO - [2023-05-26 22:18:42,092] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:18:42,103] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:18:42,123] {logging_mixin.py:115} INFO - [2023-05-26 22:18:42,123] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:18:42,141] {logging_mixin.py:115} INFO - [2023-05-26 22:18:42,141] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:18:42,178] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2023-05-26 22:19:20,804] {processor.py:153} INFO - Started process (PID=29602) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:19:20,808] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:19:20,809] {logging_mixin.py:115} INFO - [2023-05-26 22:19:20,809] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:19:20,818] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:19:20,834] {logging_mixin.py:115} INFO - [2023-05-26 22:19:20,834] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:19:20,854] {logging_mixin.py:115} INFO - [2023-05-26 22:19:20,854] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:19:20,874] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2023-05-26 22:19:55,533] {processor.py:153} INFO - Started process (PID=29758) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:19:55,542] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:19:55,543] {logging_mixin.py:115} INFO - [2023-05-26 22:19:55,543] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:19:55,557] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:19:55,579] {logging_mixin.py:115} INFO - [2023-05-26 22:19:55,579] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:19:55,601] {logging_mixin.py:115} INFO - [2023-05-26 22:19:55,600] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:19:55,647] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.117 seconds
+[2023-05-26 22:20:27,271] {processor.py:153} INFO - Started process (PID=30115) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:20:27,272] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:20:27,273] {logging_mixin.py:115} INFO - [2023-05-26 22:20:27,273] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:20:27,290] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:20:27,320] {logging_mixin.py:115} INFO - [2023-05-26 22:20:27,320] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:20:27,359] {logging_mixin.py:115} INFO - [2023-05-26 22:20:27,359] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:20:27,421] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2023-05-26 22:21:03,339] {processor.py:153} INFO - Started process (PID=30360) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:21:03,351] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:21:03,352] {logging_mixin.py:115} INFO - [2023-05-26 22:21:03,352] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:21:03,364] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:21:03,386] {logging_mixin.py:115} INFO - [2023-05-26 22:21:03,386] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:21:03,402] {logging_mixin.py:115} INFO - [2023-05-26 22:21:03,401] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:21:03,422] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2023-05-26 22:21:37,765] {processor.py:153} INFO - Started process (PID=30608) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:21:37,778] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:21:37,779] {logging_mixin.py:115} INFO - [2023-05-26 22:21:37,779] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:21:37,788] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:21:37,823] {logging_mixin.py:115} INFO - [2023-05-26 22:21:37,823] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:21:37,840] {logging_mixin.py:115} INFO - [2023-05-26 22:21:37,840] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:21:37,858] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2023-05-26 22:22:15,757] {processor.py:153} INFO - Started process (PID=31007) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:22:15,758] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:22:15,759] {logging_mixin.py:115} INFO - [2023-05-26 22:22:15,759] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:22:15,769] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:22:15,790] {logging_mixin.py:115} INFO - [2023-05-26 22:22:15,790] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:22:15,805] {logging_mixin.py:115} INFO - [2023-05-26 22:22:15,805] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:22:15,826] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2023-05-26 22:22:50,157] {processor.py:153} INFO - Started process (PID=31095) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:22:50,176] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:22:50,177] {logging_mixin.py:115} INFO - [2023-05-26 22:22:50,177] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:22:50,186] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:22:50,202] {logging_mixin.py:115} INFO - [2023-05-26 22:22:50,202] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:22:50,217] {logging_mixin.py:115} INFO - [2023-05-26 22:22:50,217] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:22:50,238] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2023-05-26 22:23:26,378] {processor.py:153} INFO - Started process (PID=31190) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:23:26,380] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:23:26,380] {logging_mixin.py:115} INFO - [2023-05-26 22:23:26,380] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:23:26,393] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:23:26,411] {logging_mixin.py:115} INFO - [2023-05-26 22:23:26,411] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:23:26,425] {logging_mixin.py:115} INFO - [2023-05-26 22:23:26,425] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:23:26,445] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2023-05-26 22:24:00,166] {processor.py:153} INFO - Started process (PID=31276) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:24:00,166] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:24:00,167] {logging_mixin.py:115} INFO - [2023-05-26 22:24:00,167] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:24:00,176] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:24:00,192] {logging_mixin.py:115} INFO - [2023-05-26 22:24:00,192] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:24:00,206] {logging_mixin.py:115} INFO - [2023-05-26 22:24:00,206] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:24:00,236] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2023-05-26 22:24:34,811] {processor.py:153} INFO - Started process (PID=31362) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:24:34,815] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:24:34,816] {logging_mixin.py:115} INFO - [2023-05-26 22:24:34,815] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:24:34,824] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:24:34,840] {logging_mixin.py:115} INFO - [2023-05-26 22:24:34,840] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:24:34,857] {logging_mixin.py:115} INFO - [2023-05-26 22:24:34,857] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:24:34,882] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2023-05-26 22:25:07,499] {processor.py:153} INFO - Started process (PID=31443) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:25:07,500] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:25:07,501] {logging_mixin.py:115} INFO - [2023-05-26 22:25:07,501] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:25:07,510] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:25:07,550] {logging_mixin.py:115} INFO - [2023-05-26 22:25:07,549] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:25:07,579] {logging_mixin.py:115} INFO - [2023-05-26 22:25:07,578] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:25:07,597] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2023-05-26 22:25:43,001] {processor.py:153} INFO - Started process (PID=31684) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:25:43,015] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:25:43,015] {logging_mixin.py:115} INFO - [2023-05-26 22:25:43,015] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:25:43,026] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:25:43,049] {logging_mixin.py:115} INFO - [2023-05-26 22:25:43,049] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:25:43,068] {logging_mixin.py:115} INFO - [2023-05-26 22:25:43,068] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:25:43,102] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2023-05-26 22:26:17,480] {processor.py:153} INFO - Started process (PID=31876) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:26:17,496] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:26:17,496] {logging_mixin.py:115} INFO - [2023-05-26 22:26:17,496] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:26:17,509] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:26:17,528] {logging_mixin.py:115} INFO - [2023-05-26 22:26:17,527] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:26:17,546] {logging_mixin.py:115} INFO - [2023-05-26 22:26:17,546] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:26:17,571] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2023-05-26 22:26:55,242] {processor.py:153} INFO - Started process (PID=31983) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:26:55,255] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:26:55,255] {logging_mixin.py:115} INFO - [2023-05-26 22:26:55,255] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:26:55,265] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:26:55,281] {logging_mixin.py:115} INFO - [2023-05-26 22:26:55,281] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:26:55,296] {logging_mixin.py:115} INFO - [2023-05-26 22:26:55,296] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:26:55,318] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.078 seconds
+[2023-05-26 22:27:32,764] {processor.py:153} INFO - Started process (PID=32114) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:27:32,783] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:27:32,783] {logging_mixin.py:115} INFO - [2023-05-26 22:27:32,783] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:27:32,793] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:27:32,809] {logging_mixin.py:115} INFO - [2023-05-26 22:27:32,809] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:27:32,824] {logging_mixin.py:115} INFO - [2023-05-26 22:27:32,824] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:27:32,846] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2023-05-26 22:28:11,472] {processor.py:153} INFO - Started process (PID=32250) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:28:11,494] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:28:11,494] {logging_mixin.py:115} INFO - [2023-05-26 22:28:11,494] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:28:11,503] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:28:11,521] {logging_mixin.py:115} INFO - [2023-05-26 22:28:11,521] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:28:11,536] {logging_mixin.py:115} INFO - [2023-05-26 22:28:11,535] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:28:11,557] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2023-05-26 22:28:44,508] {processor.py:153} INFO - Started process (PID=32335) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:28:44,531] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:28:44,532] {logging_mixin.py:115} INFO - [2023-05-26 22:28:44,531] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:28:44,542] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:28:44,560] {logging_mixin.py:115} INFO - [2023-05-26 22:28:44,560] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:28:44,577] {logging_mixin.py:115} INFO - [2023-05-26 22:28:44,577] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:28:44,601] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2023-05-26 22:29:18,157] {processor.py:153} INFO - Started process (PID=32419) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:29:18,165] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:29:18,165] {logging_mixin.py:115} INFO - [2023-05-26 22:29:18,165] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:29:18,174] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:29:18,191] {logging_mixin.py:115} INFO - [2023-05-26 22:29:18,191] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:29:18,229] {logging_mixin.py:115} INFO - [2023-05-26 22:29:18,229] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:29:18,252] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2023-05-26 22:29:52,481] {processor.py:153} INFO - Started process (PID=32506) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:29:52,508] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:29:52,509] {logging_mixin.py:115} INFO - [2023-05-26 22:29:52,509] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:29:52,526] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:29:52,545] {logging_mixin.py:115} INFO - [2023-05-26 22:29:52,545] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:29:52,562] {logging_mixin.py:115} INFO - [2023-05-26 22:29:52,562] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:29:52,586] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2023-05-26 22:30:28,073] {processor.py:153} INFO - Started process (PID=32648) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:30:28,098] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:30:28,099] {logging_mixin.py:115} INFO - [2023-05-26 22:30:28,098] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:30:28,115] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:30:28,138] {logging_mixin.py:115} INFO - [2023-05-26 22:30:28,137] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:30:28,160] {logging_mixin.py:115} INFO - [2023-05-26 22:30:28,160] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:30:28,181] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2023-05-26 22:31:03,642] {processor.py:153} INFO - Started process (PID=374) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:31:03,669] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:31:03,669] {logging_mixin.py:115} INFO - [2023-05-26 22:31:03,669] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:31:03,680] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:31:03,697] {logging_mixin.py:115} INFO - [2023-05-26 22:31:03,697] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:31:03,714] {logging_mixin.py:115} INFO - [2023-05-26 22:31:03,714] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:31:03,735] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2023-05-26 22:31:40,861] {processor.py:153} INFO - Started process (PID=465) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:31:40,865] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:31:40,866] {logging_mixin.py:115} INFO - [2023-05-26 22:31:40,866] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:31:40,875] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:31:40,891] {logging_mixin.py:115} INFO - [2023-05-26 22:31:40,891] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:31:40,908] {logging_mixin.py:115} INFO - [2023-05-26 22:31:40,908] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:31:40,927] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2023-05-26 22:32:12,398] {processor.py:153} INFO - Started process (PID=645) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:32:12,399] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 22:32:12,399] {logging_mixin.py:115} INFO - [2023-05-26 22:32:12,399] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:32:12,412] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 22:32:12,431] {logging_mixin.py:115} INFO - [2023-05-26 22:32:12,431] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:32:12,451] {logging_mixin.py:115} INFO - [2023-05-26 22:32:12,451] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 22:32:12,477] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds

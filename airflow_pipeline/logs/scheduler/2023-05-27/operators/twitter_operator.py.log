@@ -1,0 +1,65 @@
+[2023-05-26 22:25:17,804] {processor.py:153} INFO - Started process (PID=31502) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:25:17,805] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:25:17,805] {logging_mixin.py:115} INFO - [2023-05-26 22:25:17,805] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:25:17,811] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:25:17,825] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.023 seconds
+[2023-05-26 22:25:48,155] {processor.py:153} INFO - Started process (PID=31712) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:25:48,157] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:25:48,158] {logging_mixin.py:115} INFO - [2023-05-26 22:25:48,158] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:25:48,163] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:25:48,175] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.022 seconds
+[2023-05-26 22:26:23,509] {processor.py:153} INFO - Started process (PID=31891) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:26:23,517] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:26:23,517] {logging_mixin.py:115} INFO - [2023-05-26 22:26:23,517] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:26:23,524] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:26:23,536] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.029 seconds
+[2023-05-26 22:26:53,904] {processor.py:153} INFO - Started process (PID=31978) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:26:53,904] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:26:53,905] {logging_mixin.py:115} INFO - [2023-05-26 22:26:53,905] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:26:53,909] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:26:53,919] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.018 seconds
+[2023-05-26 22:27:24,404] {processor.py:153} INFO - Started process (PID=32094) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:27:24,405] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:27:24,405] {logging_mixin.py:115} INFO - [2023-05-26 22:27:24,405] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:27:24,409] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:27:24,419] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.018 seconds
+[2023-05-26 22:28:02,626] {processor.py:153} INFO - Started process (PID=32226) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:28:02,646] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:28:02,646] {logging_mixin.py:115} INFO - [2023-05-26 22:28:02,646] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:28:02,652] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:28:02,665] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.041 seconds
+[2023-05-26 22:28:35,580] {processor.py:153} INFO - Started process (PID=32312) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:28:35,581] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:28:35,582] {logging_mixin.py:115} INFO - [2023-05-26 22:28:35,582] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:28:35,586] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:28:35,598] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.021 seconds
+[2023-05-26 22:29:09,177] {processor.py:153} INFO - Started process (PID=32397) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:29:09,200] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:29:09,202] {logging_mixin.py:115} INFO - [2023-05-26 22:29:09,201] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:29:09,212] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:29:09,239] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.067 seconds
+[2023-05-26 22:29:43,336] {processor.py:153} INFO - Started process (PID=32483) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:29:43,360] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:29:43,361] {logging_mixin.py:115} INFO - [2023-05-26 22:29:43,360] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:29:43,367] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:29:43,377] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.043 seconds
+[2023-05-26 22:30:19,795] {processor.py:153} INFO - Started process (PID=32627) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:30:19,796] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:30:19,796] {logging_mixin.py:115} INFO - [2023-05-26 22:30:19,796] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:30:19,801] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:30:19,809] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.017 seconds
+[2023-05-26 22:30:54,926] {processor.py:153} INFO - Started process (PID=318) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:30:54,927] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:30:54,928] {logging_mixin.py:115} INFO - [2023-05-26 22:30:54,928] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:30:54,932] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:30:54,941] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.017 seconds
+[2023-05-26 22:31:33,048] {processor.py:153} INFO - Started process (PID=444) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:31:33,052] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:31:33,052] {logging_mixin.py:115} INFO - [2023-05-26 22:31:33,052] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:31:33,057] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:31:33,066] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.020 seconds
+[2023-05-26 22:32:07,486] {processor.py:153} INFO - Started process (PID=633) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:32:07,488] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py for tasks to queue
+[2023-05-26 22:32:07,488] {logging_mixin.py:115} INFO - [2023-05-26 22:32:07,488] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:32:07,492] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py
+[2023-05-26 22:32:07,501] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py took 0.018 seconds

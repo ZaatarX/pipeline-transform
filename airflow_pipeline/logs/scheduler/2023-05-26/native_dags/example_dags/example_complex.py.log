@@ -1,0 +1,60 @@
+[2023-05-26 15:08:27,408] {processor.py:153} INFO - Started process (PID=8269) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:08:27,409] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 15:08:27,410] {logging_mixin.py:115} INFO - [2023-05-26 15:08:27,410] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:08:27,445] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:08:27,765] {logging_mixin.py:115} INFO - [2023-05-26 15:08:27,765] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2023-05-26 15:08:27,824] {logging_mixin.py:115} INFO - [2023-05-26 15:08:27,823] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2023-05-26 15:08:27,886] {logging_mixin.py:115} INFO - [2023-05-26 15:08:27,886] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2023-05-26 15:08:27,886] {logging_mixin.py:115} INFO - [2023-05-26 15:08:27,886] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:08:27,910] {logging_mixin.py:115} INFO - [2023-05-26 15:08:27,909] {dag.py:2398} INFO - Creating ORM DAG for example_complex
+[2023-05-26 15:08:27,961] {logging_mixin.py:115} INFO - [2023-05-26 15:08:27,961] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 15:08:28,152] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.756 seconds
+[2023-05-26 15:09:20,657] {processor.py:153} INFO - Started process (PID=8343) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:09:20,697] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 15:09:20,698] {logging_mixin.py:115} INFO - [2023-05-26 15:09:20,698] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:09:20,743] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:09:20,818] {logging_mixin.py:115} INFO - [2023-05-26 15:09:20,817] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:09:20,853] {logging_mixin.py:115} INFO - [2023-05-26 15:09:20,853] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 15:09:20,959] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.336 seconds
+[2023-05-26 15:12:11,286] {processor.py:153} INFO - Started process (PID=8798) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:12:11,302] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 15:12:11,302] {logging_mixin.py:115} INFO - [2023-05-26 15:12:11,302] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:12:11,332] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:12:11,390] {logging_mixin.py:115} INFO - [2023-05-26 15:12:11,390] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:12:11,434] {logging_mixin.py:115} INFO - [2023-05-26 15:12:11,434] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 15:12:11,493] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.210 seconds
+[2023-05-26 15:12:53,853] {processor.py:153} INFO - Started process (PID=8886) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:12:53,879] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 15:12:53,880] {logging_mixin.py:115} INFO - [2023-05-26 15:12:53,880] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:12:53,913] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:12:53,994] {logging_mixin.py:115} INFO - [2023-05-26 15:12:53,994] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:12:54,055] {logging_mixin.py:115} INFO - [2023-05-26 15:12:54,055] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 15:12:54,142] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.309 seconds
+[2023-05-26 15:13:37,286] {processor.py:153} INFO - Started process (PID=8956) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:13:37,314] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 15:13:37,315] {logging_mixin.py:115} INFO - [2023-05-26 15:13:37,315] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:13:37,343] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:13:37,406] {logging_mixin.py:115} INFO - [2023-05-26 15:13:37,406] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:13:37,481] {logging_mixin.py:115} INFO - [2023-05-26 15:13:37,481] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 15:13:37,545] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.262 seconds
+[2023-05-26 15:14:15,107] {processor.py:153} INFO - Started process (PID=9049) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:14:15,118] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 15:14:15,119] {logging_mixin.py:115} INFO - [2023-05-26 15:14:15,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:14:15,146] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:14:15,231] {logging_mixin.py:115} INFO - [2023-05-26 15:14:15,231] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:14:15,256] {logging_mixin.py:115} INFO - [2023-05-26 15:14:15,256] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 15:14:15,328] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.225 seconds
+[2023-05-26 15:14:52,476] {processor.py:153} INFO - Started process (PID=9112) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:14:52,481] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 15:14:52,482] {logging_mixin.py:115} INFO - [2023-05-26 15:14:52,481] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:14:52,497] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:14:52,574] {logging_mixin.py:115} INFO - [2023-05-26 15:14:52,574] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:14:52,599] {logging_mixin.py:115} INFO - [2023-05-26 15:14:52,599] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 15:14:52,660] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.187 seconds
+[2023-05-26 15:15:28,978] {processor.py:153} INFO - Started process (PID=9169) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:15:28,988] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-05-26 15:15:28,989] {logging_mixin.py:115} INFO - [2023-05-26 15:15:28,989] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:15:29,022] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-05-26 15:15:29,072] {logging_mixin.py:115} INFO - [2023-05-26 15:15:29,072] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:15:29,106] {logging_mixin.py:115} INFO - [2023-05-26 15:15:29,106] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-05-26 15:15:29,204] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.240 seconds

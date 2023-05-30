@@ -1,0 +1,5 @@
+/.venv
+/.vscode
+/logs
+/spark-3.4.0-bin-hadoop3
+/spark-3.4.0-bin-hadoop3.tgz

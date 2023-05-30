@@ -1,0 +1,357 @@
+[2023-05-26 22:03:23,835] {processor.py:153} INFO - Started process (PID=25868) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:03:23,836] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:03:23,837] {logging_mixin.py:115} INFO - [2023-05-26 22:03:23,836] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:03:23,862] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:03:23,917] {logging_mixin.py:115} INFO - [2023-05-26 22:03:23,917] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:03:23,935] {logging_mixin.py:115} INFO - [2023-05-26 22:03:23,934] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:03:24,010] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.177 seconds
+[2023-05-26 22:03:59,480] {processor.py:153} INFO - Started process (PID=26240) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:03:59,482] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:03:59,483] {logging_mixin.py:115} INFO - [2023-05-26 22:03:59,483] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:03:59,503] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:03:59,546] {logging_mixin.py:115} INFO - [2023-05-26 22:03:59,546] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:03:59,561] {logging_mixin.py:115} INFO - [2023-05-26 22:03:59,561] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:03:59,582] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2023-05-26 22:04:34,083] {processor.py:153} INFO - Started process (PID=26326) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:04:34,086] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:04:34,086] {logging_mixin.py:115} INFO - [2023-05-26 22:04:34,086] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:04:34,109] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:04:34,154] {logging_mixin.py:115} INFO - [2023-05-26 22:04:34,154] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:04:34,172] {logging_mixin.py:115} INFO - [2023-05-26 22:04:34,172] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:04:34,196] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.116 seconds
+[2023-05-26 22:05:08,034] {processor.py:153} INFO - Started process (PID=26664) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:05:08,042] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:05:08,042] {logging_mixin.py:115} INFO - [2023-05-26 22:05:08,042] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:05:08,067] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:05:08,119] {logging_mixin.py:115} INFO - [2023-05-26 22:05:08,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:05:08,135] {logging_mixin.py:115} INFO - [2023-05-26 22:05:08,135] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:05:08,164] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.133 seconds
+[2023-05-26 22:05:43,768] {processor.py:153} INFO - Started process (PID=26917) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:05:43,778] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:05:43,779] {logging_mixin.py:115} INFO - [2023-05-26 22:05:43,779] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:05:43,796] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:05:43,835] {logging_mixin.py:115} INFO - [2023-05-26 22:05:43,835] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:05:43,847] {logging_mixin.py:115} INFO - [2023-05-26 22:05:43,847] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:05:43,868] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.103 seconds
+[2023-05-26 22:06:18,532] {processor.py:153} INFO - Started process (PID=27012) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:06:18,542] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:06:18,543] {logging_mixin.py:115} INFO - [2023-05-26 22:06:18,543] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:06:18,561] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:06:18,597] {logging_mixin.py:115} INFO - [2023-05-26 22:06:18,597] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:06:18,609] {logging_mixin.py:115} INFO - [2023-05-26 22:06:18,608] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:06:18,629] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.100 seconds
+[2023-05-26 22:06:54,783] {processor.py:153} INFO - Started process (PID=27210) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:06:54,794] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:06:54,795] {logging_mixin.py:115} INFO - [2023-05-26 22:06:54,795] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:06:54,813] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:06:54,849] {logging_mixin.py:115} INFO - [2023-05-26 22:06:54,848] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:06:54,862] {logging_mixin.py:115} INFO - [2023-05-26 22:06:54,862] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:06:54,888] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2023-05-26 22:07:29,635] {processor.py:153} INFO - Started process (PID=27297) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:07:29,647] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:07:29,648] {logging_mixin.py:115} INFO - [2023-05-26 22:07:29,648] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:07:29,665] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:07:29,701] {logging_mixin.py:115} INFO - [2023-05-26 22:07:29,701] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:07:29,713] {logging_mixin.py:115} INFO - [2023-05-26 22:07:29,713] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:07:29,734] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.102 seconds
+[2023-05-26 22:08:04,047] {processor.py:153} INFO - Started process (PID=27380) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:08:04,061] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:08:04,062] {logging_mixin.py:115} INFO - [2023-05-26 22:08:04,062] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:08:04,079] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:08:04,091] {logging_mixin.py:115} INFO - [2023-05-26 22:08:04,091] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:08:04,107] {logging_mixin.py:115} INFO - [2023-05-26 22:08:04,107] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:08:04,125] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.081 seconds
+[2023-05-26 22:08:35,866] {processor.py:153} INFO - Started process (PID=27515) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:08:35,867] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:08:35,868] {logging_mixin.py:115} INFO - [2023-05-26 22:08:35,867] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:08:35,891] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:08:35,943] {logging_mixin.py:115} INFO - [2023-05-26 22:08:35,943] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:08:35,961] {logging_mixin.py:115} INFO - [2023-05-26 22:08:35,961] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:08:36,012] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.148 seconds
+[2023-05-26 22:09:07,925] {processor.py:153} INFO - Started process (PID=27595) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:09:07,926] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:09:07,926] {logging_mixin.py:115} INFO - [2023-05-26 22:09:07,926] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:09:07,945] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:09:07,957] {logging_mixin.py:115} INFO - [2023-05-26 22:09:07,957] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:09:07,973] {logging_mixin.py:115} INFO - [2023-05-26 22:09:07,973] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:09:07,993] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.070 seconds
+[2023-05-26 22:09:41,828] {processor.py:153} INFO - Started process (PID=27785) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:09:41,849] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:09:41,849] {logging_mixin.py:115} INFO - [2023-05-26 22:09:41,849] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:09:41,871] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:09:41,885] {logging_mixin.py:115} INFO - [2023-05-26 22:09:41,884] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:09:41,900] {logging_mixin.py:115} INFO - [2023-05-26 22:09:41,900] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:09:41,920] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.095 seconds
+[2023-05-26 22:10:13,780] {processor.py:153} INFO - Started process (PID=27862) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:10:13,801] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:10:13,802] {logging_mixin.py:115} INFO - [2023-05-26 22:10:13,802] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:10:13,820] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:10:13,832] {logging_mixin.py:115} INFO - [2023-05-26 22:10:13,832] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:10:13,848] {logging_mixin.py:115} INFO - [2023-05-26 22:10:13,847] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:10:13,866] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.088 seconds
+[2023-05-26 22:10:46,892] {processor.py:153} INFO - Started process (PID=27943) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:10:46,892] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:10:46,892] {logging_mixin.py:115} INFO - [2023-05-26 22:10:46,892] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:10:46,910] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:10:46,947] {logging_mixin.py:115} INFO - [2023-05-26 22:10:46,947] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:10:46,963] {logging_mixin.py:115} INFO - [2023-05-26 22:10:46,963] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:10:47,014] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.125 seconds
+[2023-05-26 22:11:21,222] {processor.py:153} INFO - Started process (PID=28029) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:11:21,247] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:11:21,247] {logging_mixin.py:115} INFO - [2023-05-26 22:11:21,247] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:11:21,265] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:11:21,278] {logging_mixin.py:115} INFO - [2023-05-26 22:11:21,278] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:11:21,295] {logging_mixin.py:115} INFO - [2023-05-26 22:11:21,295] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:11:21,316] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.097 seconds
+[2023-05-26 22:11:54,662] {processor.py:153} INFO - Started process (PID=28123) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:11:54,666] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:11:54,667] {logging_mixin.py:115} INFO - [2023-05-26 22:11:54,667] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:11:54,685] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:11:54,722] {logging_mixin.py:115} INFO - [2023-05-26 22:11:54,722] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:11:54,734] {logging_mixin.py:115} INFO - [2023-05-26 22:11:54,734] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:11:54,755] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.096 seconds
+[2023-05-26 22:12:29,344] {processor.py:153} INFO - Started process (PID=28367) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:12:29,345] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:12:29,345] {logging_mixin.py:115} INFO - [2023-05-26 22:12:29,345] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:12:29,366] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:12:29,381] {logging_mixin.py:115} INFO - [2023-05-26 22:12:29,380] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:12:29,398] {logging_mixin.py:115} INFO - [2023-05-26 22:12:29,398] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:12:29,436] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.094 seconds
+[2023-05-26 22:13:04,395] {processor.py:153} INFO - Started process (PID=28453) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:13:04,402] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:13:04,402] {logging_mixin.py:115} INFO - [2023-05-26 22:13:04,402] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:13:04,421] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:13:04,434] {logging_mixin.py:115} INFO - [2023-05-26 22:13:04,434] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:13:04,451] {logging_mixin.py:115} INFO - [2023-05-26 22:13:04,451] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:13:04,473] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.081 seconds
+[2023-05-26 22:13:35,490] {processor.py:153} INFO - Started process (PID=28582) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:13:35,510] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:13:35,511] {logging_mixin.py:115} INFO - [2023-05-26 22:13:35,511] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:13:35,532] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:13:35,577] {logging_mixin.py:115} INFO - [2023-05-26 22:13:35,577] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:13:35,591] {logging_mixin.py:115} INFO - [2023-05-26 22:13:35,591] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:13:35,616] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.128 seconds
+[2023-05-26 22:14:08,982] {processor.py:153} INFO - Started process (PID=28666) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:14:08,983] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:14:08,983] {logging_mixin.py:115} INFO - [2023-05-26 22:14:08,983] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:14:09,003] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:14:09,017] {logging_mixin.py:115} INFO - [2023-05-26 22:14:09,017] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:14:09,033] {logging_mixin.py:115} INFO - [2023-05-26 22:14:09,033] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:14:09,051] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.071 seconds
+[2023-05-26 22:14:43,975] {processor.py:153} INFO - Started process (PID=28753) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:14:43,981] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:14:43,981] {logging_mixin.py:115} INFO - [2023-05-26 22:14:43,981] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:14:43,999] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:14:44,012] {logging_mixin.py:115} INFO - [2023-05-26 22:14:44,012] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:14:44,027] {logging_mixin.py:115} INFO - [2023-05-26 22:14:44,027] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:14:44,045] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.072 seconds
+[2023-05-26 22:15:18,900] {processor.py:153} INFO - Started process (PID=28839) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:15:18,920] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:15:18,921] {logging_mixin.py:115} INFO - [2023-05-26 22:15:18,920] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:15:18,939] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:15:18,955] {logging_mixin.py:115} INFO - [2023-05-26 22:15:18,955] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:15:18,973] {logging_mixin.py:115} INFO - [2023-05-26 22:15:18,973] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:15:18,994] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.097 seconds
+[2023-05-26 22:15:50,211] {processor.py:153} INFO - Started process (PID=28916) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:15:50,211] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:15:50,212] {logging_mixin.py:115} INFO - [2023-05-26 22:15:50,212] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:15:50,235] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:15:50,250] {logging_mixin.py:115} INFO - [2023-05-26 22:15:50,250] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:15:50,267] {logging_mixin.py:115} INFO - [2023-05-26 22:15:50,267] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:15:50,288] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.080 seconds
+[2023-05-26 22:16:22,214] {processor.py:153} INFO - Started process (PID=28996) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:16:22,238] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:16:22,239] {logging_mixin.py:115} INFO - [2023-05-26 22:16:22,239] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:16:22,257] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:16:22,270] {logging_mixin.py:115} INFO - [2023-05-26 22:16:22,270] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:16:22,287] {logging_mixin.py:115} INFO - [2023-05-26 22:16:22,287] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:16:22,341] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.129 seconds
+[2023-05-26 22:16:53,811] {processor.py:153} INFO - Started process (PID=29074) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:16:53,811] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:16:53,812] {logging_mixin.py:115} INFO - [2023-05-26 22:16:53,812] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:16:53,831] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:16:53,844] {logging_mixin.py:115} INFO - [2023-05-26 22:16:53,844] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:16:53,860] {logging_mixin.py:115} INFO - [2023-05-26 22:16:53,860] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:16:53,913] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2023-05-26 22:17:29,573] {processor.py:153} INFO - Started process (PID=29164) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:17:29,599] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:17:29,600] {logging_mixin.py:115} INFO - [2023-05-26 22:17:29,600] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:17:29,618] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:17:29,631] {logging_mixin.py:115} INFO - [2023-05-26 22:17:29,631] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:17:29,647] {logging_mixin.py:115} INFO - [2023-05-26 22:17:29,647] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:17:29,666] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.095 seconds
+[2023-05-26 22:18:03,097] {processor.py:153} INFO - Started process (PID=29244) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:18:03,100] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:18:03,100] {logging_mixin.py:115} INFO - [2023-05-26 22:18:03,100] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:18:03,119] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:18:03,132] {logging_mixin.py:115} INFO - [2023-05-26 22:18:03,132] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:18:03,148] {logging_mixin.py:115} INFO - [2023-05-26 22:18:03,147] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:18:03,167] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.073 seconds
+[2023-05-26 22:18:38,077] {processor.py:153} INFO - Started process (PID=29381) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:18:38,084] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:18:38,085] {logging_mixin.py:115} INFO - [2023-05-26 22:18:38,085] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:18:38,103] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:18:38,140] {logging_mixin.py:115} INFO - [2023-05-26 22:18:38,140] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:18:38,152] {logging_mixin.py:115} INFO - [2023-05-26 22:18:38,152] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:18:38,176] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.102 seconds
+[2023-05-26 22:19:14,200] {processor.py:153} INFO - Started process (PID=29522) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:19:14,208] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:19:14,208] {logging_mixin.py:115} INFO - [2023-05-26 22:19:14,208] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:19:14,234] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:19:14,275] {logging_mixin.py:115} INFO - [2023-05-26 22:19:14,275] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:19:14,289] {logging_mixin.py:115} INFO - [2023-05-26 22:19:14,289] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:19:14,313] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.116 seconds
+[2023-05-26 22:19:49,372] {processor.py:153} INFO - Started process (PID=29721) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:19:49,397] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:19:49,398] {logging_mixin.py:115} INFO - [2023-05-26 22:19:49,398] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:19:49,455] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:19:49,566] {logging_mixin.py:115} INFO - [2023-05-26 22:19:49,566] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:19:49,582] {logging_mixin.py:115} INFO - [2023-05-26 22:19:49,582] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:19:49,601] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.233 seconds
+[2023-05-26 22:20:25,465] {processor.py:153} INFO - Started process (PID=30110) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:20:25,477] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:20:25,477] {logging_mixin.py:115} INFO - [2023-05-26 22:20:25,477] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:20:25,519] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:20:25,613] {logging_mixin.py:115} INFO - [2023-05-26 22:20:25,613] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:20:25,643] {logging_mixin.py:115} INFO - [2023-05-26 22:20:25,643] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:20:25,675] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.215 seconds
+[2023-05-26 22:21:01,202] {processor.py:153} INFO - Started process (PID=30355) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:21:01,214] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:21:01,214] {logging_mixin.py:115} INFO - [2023-05-26 22:21:01,214] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:21:01,232] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:21:01,268] {logging_mixin.py:115} INFO - [2023-05-26 22:21:01,268] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:21:01,281] {logging_mixin.py:115} INFO - [2023-05-26 22:21:01,281] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:21:01,302] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.103 seconds
+[2023-05-26 22:21:36,119] {processor.py:153} INFO - Started process (PID=30602) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:21:36,123] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:21:36,123] {logging_mixin.py:115} INFO - [2023-05-26 22:21:36,123] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:21:36,147] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:21:36,201] {logging_mixin.py:115} INFO - [2023-05-26 22:21:36,201] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:21:36,219] {logging_mixin.py:115} INFO - [2023-05-26 22:21:36,219] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:21:36,363] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.247 seconds
+[2023-05-26 22:22:14,019] {processor.py:153} INFO - Started process (PID=31002) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:22:14,038] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:22:14,038] {logging_mixin.py:115} INFO - [2023-05-26 22:22:14,038] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:22:14,061] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:22:14,075] {logging_mixin.py:115} INFO - [2023-05-26 22:22:14,075] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:22:14,093] {logging_mixin.py:115} INFO - [2023-05-26 22:22:14,093] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:22:14,110] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.094 seconds
+[2023-05-26 22:22:48,700] {processor.py:153} INFO - Started process (PID=31090) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:22:48,720] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:22:48,720] {logging_mixin.py:115} INFO - [2023-05-26 22:22:48,720] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:22:48,738] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:22:48,775] {logging_mixin.py:115} INFO - [2023-05-26 22:22:48,775] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:22:48,788] {logging_mixin.py:115} INFO - [2023-05-26 22:22:48,788] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:22:48,809] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.111 seconds
+[2023-05-26 22:23:24,017] {processor.py:153} INFO - Started process (PID=31185) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:23:24,032] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:23:24,032] {logging_mixin.py:115} INFO - [2023-05-26 22:23:24,032] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:23:24,078] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:23:24,154] {logging_mixin.py:115} INFO - [2023-05-26 22:23:24,153] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:23:24,169] {logging_mixin.py:115} INFO - [2023-05-26 22:23:24,169] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:23:24,185] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.172 seconds
+[2023-05-26 22:23:58,598] {processor.py:153} INFO - Started process (PID=31271) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:23:58,602] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:23:58,602] {logging_mixin.py:115} INFO - [2023-05-26 22:23:58,602] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:23:58,620] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:23:58,658] {logging_mixin.py:115} INFO - [2023-05-26 22:23:58,658] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:23:58,671] {logging_mixin.py:115} INFO - [2023-05-26 22:23:58,671] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:23:58,693] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.098 seconds
+[2023-05-26 22:24:33,149] {processor.py:153} INFO - Started process (PID=31360) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:24:33,172] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:24:33,173] {logging_mixin.py:115} INFO - [2023-05-26 22:24:33,173] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:24:33,190] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:24:33,227] {logging_mixin.py:115} INFO - [2023-05-26 22:24:33,227] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:24:33,239] {logging_mixin.py:115} INFO - [2023-05-26 22:24:33,239] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:24:33,260] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2023-05-26 22:25:05,185] {processor.py:153} INFO - Started process (PID=31438) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:25:05,185] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:25:05,186] {logging_mixin.py:115} INFO - [2023-05-26 22:25:05,186] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:25:05,203] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:25:05,216] {logging_mixin.py:115} INFO - [2023-05-26 22:25:05,216] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:25:05,234] {logging_mixin.py:115} INFO - [2023-05-26 22:25:05,234] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:25:05,269] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.087 seconds
+[2023-05-26 22:25:41,265] {processor.py:153} INFO - Started process (PID=31680) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:25:41,270] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:25:41,271] {logging_mixin.py:115} INFO - [2023-05-26 22:25:41,271] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:25:41,295] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:25:41,349] {logging_mixin.py:115} INFO - [2023-05-26 22:25:41,349] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:25:41,375] {logging_mixin.py:115} INFO - [2023-05-26 22:25:41,375] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:25:41,399] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.137 seconds
+[2023-05-26 22:26:15,219] {processor.py:153} INFO - Started process (PID=31871) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:26:15,236] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:26:15,236] {logging_mixin.py:115} INFO - [2023-05-26 22:26:15,236] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:26:15,257] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:26:15,272] {logging_mixin.py:115} INFO - [2023-05-26 22:26:15,272] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:26:15,290] {logging_mixin.py:115} INFO - [2023-05-26 22:26:15,290] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:26:15,308] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.092 seconds
+[2023-05-26 22:26:49,961] {processor.py:153} INFO - Started process (PID=31968) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:26:49,962] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:26:49,963] {logging_mixin.py:115} INFO - [2023-05-26 22:26:49,963] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:26:49,981] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:26:50,000] {logging_mixin.py:115} INFO - [2023-05-26 22:26:50,000] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:26:50,057] {logging_mixin.py:115} INFO - [2023-05-26 22:26:50,057] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:26:50,073] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.115 seconds
+[2023-05-26 22:27:27,618] {processor.py:153} INFO - Started process (PID=32100) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:27:27,619] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:27:27,620] {logging_mixin.py:115} INFO - [2023-05-26 22:27:27,620] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:27:27,641] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:27:27,682] {logging_mixin.py:115} INFO - [2023-05-26 22:27:27,682] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:27:27,695] {logging_mixin.py:115} INFO - [2023-05-26 22:27:27,695] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:27:27,747] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.131 seconds
+[2023-05-26 22:28:06,095] {processor.py:153} INFO - Started process (PID=32239) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:28:06,115] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:28:06,116] {logging_mixin.py:115} INFO - [2023-05-26 22:28:06,116] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:28:06,136] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:28:06,180] {logging_mixin.py:115} INFO - [2023-05-26 22:28:06,180] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:28:06,196] {logging_mixin.py:115} INFO - [2023-05-26 22:28:06,196] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:28:06,253] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.161 seconds
+[2023-05-26 22:28:42,788] {processor.py:153} INFO - Started process (PID=32332) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:28:42,811] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:28:42,812] {logging_mixin.py:115} INFO - [2023-05-26 22:28:42,811] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:28:42,843] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:28:42,861] {logging_mixin.py:115} INFO - [2023-05-26 22:28:42,861] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:28:42,877] {logging_mixin.py:115} INFO - [2023-05-26 22:28:42,877] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:28:42,926] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.141 seconds
+[2023-05-26 22:29:15,744] {processor.py:153} INFO - Started process (PID=32414) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:29:15,768] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:29:15,769] {logging_mixin.py:115} INFO - [2023-05-26 22:29:15,769] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:29:15,787] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:29:15,826] {logging_mixin.py:115} INFO - [2023-05-26 22:29:15,826] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:29:15,838] {logging_mixin.py:115} INFO - [2023-05-26 22:29:15,838] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:29:15,891] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.149 seconds
+[2023-05-26 22:29:50,852] {processor.py:153} INFO - Started process (PID=32499) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:29:50,866] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:29:50,867] {logging_mixin.py:115} INFO - [2023-05-26 22:29:50,867] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:29:50,895] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:29:50,914] {logging_mixin.py:115} INFO - [2023-05-26 22:29:50,914] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:29:50,949] {logging_mixin.py:115} INFO - [2023-05-26 22:29:50,948] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:29:51,008] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.159 seconds
+[2023-05-26 22:30:26,140] {processor.py:153} INFO - Started process (PID=32642) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:30:26,143] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:30:26,144] {logging_mixin.py:115} INFO - [2023-05-26 22:30:26,144] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:30:26,163] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:30:26,207] {logging_mixin.py:115} INFO - [2023-05-26 22:30:26,207] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:30:26,221] {logging_mixin.py:115} INFO - [2023-05-26 22:30:26,221] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:30:26,250] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2023-05-26 22:31:01,278] {processor.py:153} INFO - Started process (PID=369) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:31:01,305] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:31:01,306] {logging_mixin.py:115} INFO - [2023-05-26 22:31:01,306] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:31:01,325] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:31:01,340] {logging_mixin.py:115} INFO - [2023-05-26 22:31:01,340] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:31:01,357] {logging_mixin.py:115} INFO - [2023-05-26 22:31:01,357] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:31:01,376] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.101 seconds
+[2023-05-26 22:31:36,433] {processor.py:153} INFO - Started process (PID=453) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:31:36,437] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:31:36,438] {logging_mixin.py:115} INFO - [2023-05-26 22:31:36,438] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:31:36,457] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:31:36,469] {logging_mixin.py:115} INFO - [2023-05-26 22:31:36,469] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:31:36,485] {logging_mixin.py:115} INFO - [2023-05-26 22:31:36,485] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:31:36,505] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.075 seconds
+[2023-05-26 22:32:09,000] {processor.py:153} INFO - Started process (PID=636) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:32:09,002] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-26 22:32:09,003] {logging_mixin.py:115} INFO - [2023-05-26 22:32:09,002] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:32:09,025] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-26 22:32:09,041] {logging_mixin.py:115} INFO - [2023-05-26 22:32:09,041] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:32:09,061] {logging_mixin.py:115} INFO - [2023-05-26 22:32:09,061] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-26 22:32:09,082] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.085 seconds

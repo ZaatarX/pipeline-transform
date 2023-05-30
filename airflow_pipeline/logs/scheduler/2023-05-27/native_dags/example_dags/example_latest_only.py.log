@@ -1,0 +1,343 @@
+[2023-05-26 22:03:32,033] {processor.py:153} INFO - Started process (PID=25968) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:03:32,033] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:03:32,034] {logging_mixin.py:115} INFO - [2023-05-26 22:03:32,034] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:03:32,044] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:03:32,115] {logging_mixin.py:115} INFO - [2023-05-26 22:03:32,115] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:03:32,143] {logging_mixin.py:115} INFO - [2023-05-26 22:03:32,143] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:03:32.142984+00:00, run_after=2023-05-27T01:03:32.142984+00:00
+[2023-05-26 22:03:32,189] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.160 seconds
+[2023-05-26 22:04:07,044] {processor.py:153} INFO - Started process (PID=26260) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:04:07,051] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:04:07,052] {logging_mixin.py:115} INFO - [2023-05-26 22:04:07,052] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:04:07,058] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:04:07,074] {logging_mixin.py:115} INFO - [2023-05-26 22:04:07,074] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:04:07,090] {logging_mixin.py:115} INFO - [2023-05-26 22:04:07,090] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:04:07.090425+00:00, run_after=2023-05-27T01:04:07.090425+00:00
+[2023-05-26 22:04:07,109] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2023-05-26 22:04:42,123] {processor.py:153} INFO - Started process (PID=26448) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:04:42,134] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:04:42,135] {logging_mixin.py:115} INFO - [2023-05-26 22:04:42,135] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:04:42,140] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:04:42,156] {logging_mixin.py:115} INFO - [2023-05-26 22:04:42,156] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:04:42,196] {logging_mixin.py:115} INFO - [2023-05-26 22:04:42,195] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:04:42.195379+00:00, run_after=2023-05-27T01:04:42.195379+00:00
+[2023-05-26 22:04:42,243] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.122 seconds
+[2023-05-26 22:05:16,376] {processor.py:153} INFO - Started process (PID=26697) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:05:16,385] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:05:16,385] {logging_mixin.py:115} INFO - [2023-05-26 22:05:16,385] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:05:16,390] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:05:16,403] {logging_mixin.py:115} INFO - [2023-05-26 22:05:16,403] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:05:16,418] {logging_mixin.py:115} INFO - [2023-05-26 22:05:16,417] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:05:16.417714+00:00, run_after=2023-05-27T01:05:16.417714+00:00
+[2023-05-26 22:05:16,436] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2023-05-26 22:05:52,899] {processor.py:153} INFO - Started process (PID=26944) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:05:52,909] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:05:52,910] {logging_mixin.py:115} INFO - [2023-05-26 22:05:52,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:05:52,914] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:05:52,927] {logging_mixin.py:115} INFO - [2023-05-26 22:05:52,927] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:05:52,942] {logging_mixin.py:115} INFO - [2023-05-26 22:05:52,942] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:05:52.942077+00:00, run_after=2023-05-27T01:05:52.942077+00:00
+[2023-05-26 22:05:52,959] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.062 seconds
+[2023-05-26 22:06:26,782] {processor.py:153} INFO - Started process (PID=27033) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:06:26,793] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:06:26,793] {logging_mixin.py:115} INFO - [2023-05-26 22:06:26,793] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:06:26,797] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:06:26,810] {logging_mixin.py:115} INFO - [2023-05-26 22:06:26,810] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:06:26,825] {logging_mixin.py:115} INFO - [2023-05-26 22:06:26,825] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:06:26.824879+00:00, run_after=2023-05-27T01:06:26.824879+00:00
+[2023-05-26 22:06:26,843] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2023-05-26 22:07:01,692] {processor.py:153} INFO - Started process (PID=27227) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:07:01,693] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:07:01,694] {logging_mixin.py:115} INFO - [2023-05-26 22:07:01,693] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:07:01,699] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:07:01,714] {logging_mixin.py:115} INFO - [2023-05-26 22:07:01,714] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:07:01,731] {logging_mixin.py:115} INFO - [2023-05-26 22:07:01,731] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:07:01.731487+00:00, run_after=2023-05-27T01:07:01.731487+00:00
+[2023-05-26 22:07:01,760] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2023-05-26 22:07:38,196] {processor.py:153} INFO - Started process (PID=27317) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:07:38,209] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:07:38,210] {logging_mixin.py:115} INFO - [2023-05-26 22:07:38,210] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:07:38,214] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:07:38,227] {logging_mixin.py:115} INFO - [2023-05-26 22:07:38,227] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:07:38,241] {logging_mixin.py:115} INFO - [2023-05-26 22:07:38,241] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:07:38.241455+00:00, run_after=2023-05-27T01:07:38.241455+00:00
+[2023-05-26 22:07:38,260] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.066 seconds
+[2023-05-26 22:08:11,489] {processor.py:153} INFO - Started process (PID=27400) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:08:11,489] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:08:11,490] {logging_mixin.py:115} INFO - [2023-05-26 22:08:11,490] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:08:11,494] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:08:11,507] {logging_mixin.py:115} INFO - [2023-05-26 22:08:11,507] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:08:11,521] {logging_mixin.py:115} INFO - [2023-05-26 22:08:11,521] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:08:11.521242+00:00, run_after=2023-05-27T01:08:11.521242+00:00
+[2023-05-26 22:08:11,554] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.068 seconds
+[2023-05-26 22:08:45,105] {processor.py:153} INFO - Started process (PID=27539) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:08:45,124] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:08:45,125] {logging_mixin.py:115} INFO - [2023-05-26 22:08:45,124] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:08:45,129] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:08:45,141] {logging_mixin.py:115} INFO - [2023-05-26 22:08:45,141] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:08:45,156] {logging_mixin.py:115} INFO - [2023-05-26 22:08:45,156] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:08:45.156295+00:00, run_after=2023-05-27T01:08:45.156295+00:00
+[2023-05-26 22:08:45,175] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2023-05-26 22:09:21,204] {processor.py:153} INFO - Started process (PID=27682) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:09:21,223] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:09:21,225] {logging_mixin.py:115} INFO - [2023-05-26 22:09:21,224] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:09:21,229] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:09:21,248] {logging_mixin.py:115} INFO - [2023-05-26 22:09:21,248] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:09:21,291] {logging_mixin.py:115} INFO - [2023-05-26 22:09:21,291] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:09:21.290885+00:00, run_after=2023-05-27T01:09:21.290885+00:00
+[2023-05-26 22:09:21,309] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.109 seconds
+[2023-05-26 22:09:54,368] {processor.py:153} INFO - Started process (PID=27816) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:09:54,389] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:09:54,390] {logging_mixin.py:115} INFO - [2023-05-26 22:09:54,390] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:09:54,395] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:09:54,412] {logging_mixin.py:115} INFO - [2023-05-26 22:09:54,412] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:09:54,432] {logging_mixin.py:115} INFO - [2023-05-26 22:09:54,432] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:09:54.432068+00:00, run_after=2023-05-27T01:09:54.432068+00:00
+[2023-05-26 22:09:54,451] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.086 seconds
+[2023-05-26 22:10:29,282] {processor.py:153} INFO - Started process (PID=27902) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:10:29,304] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:10:29,304] {logging_mixin.py:115} INFO - [2023-05-26 22:10:29,304] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:10:29,308] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:10:29,321] {logging_mixin.py:115} INFO - [2023-05-26 22:10:29,321] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:10:29,336] {logging_mixin.py:115} INFO - [2023-05-26 22:10:29,336] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:10:29.335809+00:00, run_after=2023-05-27T01:10:29.335809+00:00
+[2023-05-26 22:10:29,354] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2023-05-26 22:11:04,259] {processor.py:153} INFO - Started process (PID=27989) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:11:04,281] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:11:04,282] {logging_mixin.py:115} INFO - [2023-05-26 22:11:04,282] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:11:04,286] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:11:04,299] {logging_mixin.py:115} INFO - [2023-05-26 22:11:04,299] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:11:04,314] {logging_mixin.py:115} INFO - [2023-05-26 22:11:04,314] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:11:04.314061+00:00, run_after=2023-05-27T01:11:04.314061+00:00
+[2023-05-26 22:11:04,332] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2023-05-26 22:11:39,067] {processor.py:153} INFO - Started process (PID=28079) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:11:39,069] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:11:39,069] {logging_mixin.py:115} INFO - [2023-05-26 22:11:39,069] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:11:39,075] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:11:39,090] {logging_mixin.py:115} INFO - [2023-05-26 22:11:39,090] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:11:39,108] {logging_mixin.py:115} INFO - [2023-05-26 22:11:39,108] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:11:39.108174+00:00, run_after=2023-05-27T01:11:39.108174+00:00
+[2023-05-26 22:11:39,127] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2023-05-26 22:12:11,976] {processor.py:153} INFO - Started process (PID=28172) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:12:11,984] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:12:11,984] {logging_mixin.py:115} INFO - [2023-05-26 22:12:11,984] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:12:11,988] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:12:12,003] {logging_mixin.py:115} INFO - [2023-05-26 22:12:12,003] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:12:12,021] {logging_mixin.py:115} INFO - [2023-05-26 22:12:12,021] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:12:12.021074+00:00, run_after=2023-05-27T01:12:12.021074+00:00
+[2023-05-26 22:12:12,041] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2023-05-26 22:12:46,036] {processor.py:153} INFO - Started process (PID=28407) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:12:46,042] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:12:46,042] {logging_mixin.py:115} INFO - [2023-05-26 22:12:46,042] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:12:46,047] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:12:46,060] {logging_mixin.py:115} INFO - [2023-05-26 22:12:46,060] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:12:46,075] {logging_mixin.py:115} INFO - [2023-05-26 22:12:46,075] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:12:46.075090+00:00, run_after=2023-05-27T01:12:46.075090+00:00
+[2023-05-26 22:12:46,094] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2023-05-26 22:13:20,194] {processor.py:153} INFO - Started process (PID=28545) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:13:20,196] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:13:20,196] {logging_mixin.py:115} INFO - [2023-05-26 22:13:20,196] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:13:20,201] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:13:20,216] {logging_mixin.py:115} INFO - [2023-05-26 22:13:20,216] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:13:20,234] {logging_mixin.py:115} INFO - [2023-05-26 22:13:20,234] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:13:20.234568+00:00, run_after=2023-05-27T01:13:20.234568+00:00
+[2023-05-26 22:13:20,256] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2023-05-26 22:13:52,358] {processor.py:153} INFO - Started process (PID=28626) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:13:52,359] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:13:52,359] {logging_mixin.py:115} INFO - [2023-05-26 22:13:52,359] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:13:52,364] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:13:52,378] {logging_mixin.py:115} INFO - [2023-05-26 22:13:52,378] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:13:52,394] {logging_mixin.py:115} INFO - [2023-05-26 22:13:52,394] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:13:52.394506+00:00, run_after=2023-05-27T01:13:52.394506+00:00
+[2023-05-26 22:13:52,430] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2023-05-26 22:14:28,469] {processor.py:153} INFO - Started process (PID=28716) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:14:28,490] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:14:28,490] {logging_mixin.py:115} INFO - [2023-05-26 22:14:28,490] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:14:28,496] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:14:28,511] {logging_mixin.py:115} INFO - [2023-05-26 22:14:28,511] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:14:28,529] {logging_mixin.py:115} INFO - [2023-05-26 22:14:28,529] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:14:28.528898+00:00, run_after=2023-05-27T01:14:28.528898+00:00
+[2023-05-26 22:14:28,550] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2023-05-26 22:15:03,439] {processor.py:153} INFO - Started process (PID=28803) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:15:03,459] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:15:03,460] {logging_mixin.py:115} INFO - [2023-05-26 22:15:03,459] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:15:03,464] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:15:03,479] {logging_mixin.py:115} INFO - [2023-05-26 22:15:03,479] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:15:03,496] {logging_mixin.py:115} INFO - [2023-05-26 22:15:03,495] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:15:03.495760+00:00, run_after=2023-05-27T01:15:03.495760+00:00
+[2023-05-26 22:15:03,517] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.080 seconds
+[2023-05-26 22:15:35,945] {processor.py:153} INFO - Started process (PID=28884) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:15:35,959] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:15:35,959] {logging_mixin.py:115} INFO - [2023-05-26 22:15:35,959] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:15:35,965] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:15:35,978] {logging_mixin.py:115} INFO - [2023-05-26 22:15:35,978] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:15:35,993] {logging_mixin.py:115} INFO - [2023-05-26 22:15:35,993] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:15:35.993124+00:00, run_after=2023-05-27T01:15:35.993124+00:00
+[2023-05-26 22:15:36,013] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2023-05-26 22:16:11,972] {processor.py:153} INFO - Started process (PID=28971) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:16:11,996] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:16:11,996] {logging_mixin.py:115} INFO - [2023-05-26 22:16:11,996] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:16:12,002] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:16:12,017] {logging_mixin.py:115} INFO - [2023-05-26 22:16:12,016] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:16:12,032] {logging_mixin.py:115} INFO - [2023-05-26 22:16:12,032] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:16:12.032546+00:00, run_after=2023-05-27T01:16:12.032546+00:00
+[2023-05-26 22:16:12,051] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.082 seconds
+[2023-05-26 22:16:46,432] {processor.py:153} INFO - Started process (PID=29057) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:16:46,432] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:16:46,433] {logging_mixin.py:115} INFO - [2023-05-26 22:16:46,433] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:16:46,437] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:16:46,452] {logging_mixin.py:115} INFO - [2023-05-26 22:16:46,452] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:16:46,470] {logging_mixin.py:115} INFO - [2023-05-26 22:16:46,469] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:16:46.469724+00:00, run_after=2023-05-27T01:16:46.469724+00:00
+[2023-05-26 22:16:46,503] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2023-05-26 22:17:20,378] {processor.py:153} INFO - Started process (PID=29139) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:17:20,379] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:17:20,379] {logging_mixin.py:115} INFO - [2023-05-26 22:17:20,379] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:17:20,384] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:17:20,402] {logging_mixin.py:115} INFO - [2023-05-26 22:17:20,401] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:17:20,416] {logging_mixin.py:115} INFO - [2023-05-26 22:17:20,416] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:17:20.416556+00:00, run_after=2023-05-27T01:17:20.416556+00:00
+[2023-05-26 22:17:20,438] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2023-05-26 22:17:57,008] {processor.py:153} INFO - Started process (PID=29230) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:17:57,009] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:17:57,010] {logging_mixin.py:115} INFO - [2023-05-26 22:17:57,009] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:17:57,016] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:17:57,033] {logging_mixin.py:115} INFO - [2023-05-26 22:17:57,033] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:17:57,051] {logging_mixin.py:115} INFO - [2023-05-26 22:17:57,051] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:17:57.051314+00:00, run_after=2023-05-27T01:17:57.051314+00:00
+[2023-05-26 22:17:57,072] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2023-05-26 22:18:34,039] {processor.py:153} INFO - Started process (PID=29371) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:18:34,046] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:18:34,047] {logging_mixin.py:115} INFO - [2023-05-26 22:18:34,047] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:18:34,051] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:18:34,064] {logging_mixin.py:115} INFO - [2023-05-26 22:18:34,064] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:18:34,081] {logging_mixin.py:115} INFO - [2023-05-26 22:18:34,081] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:18:34.079347+00:00, run_after=2023-05-27T01:18:34.079347+00:00
+[2023-05-26 22:18:34,100] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2023-05-26 22:19:08,799] {processor.py:153} INFO - Started process (PID=29478) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:19:08,807] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:19:08,808] {logging_mixin.py:115} INFO - [2023-05-26 22:19:08,807] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:19:08,812] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:19:08,828] {logging_mixin.py:115} INFO - [2023-05-26 22:19:08,828] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:19:08,848] {logging_mixin.py:115} INFO - [2023-05-26 22:19:08,848] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:19:08.845551+00:00, run_after=2023-05-27T01:19:08.845551+00:00
+[2023-05-26 22:19:08,866] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2023-05-26 22:19:43,059] {processor.py:153} INFO - Started process (PID=29706) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:19:43,060] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:19:43,061] {logging_mixin.py:115} INFO - [2023-05-26 22:19:43,061] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:19:43,065] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:19:43,080] {logging_mixin.py:115} INFO - [2023-05-26 22:19:43,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:19:43,098] {logging_mixin.py:115} INFO - [2023-05-26 22:19:43,097] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:19:43.095896+00:00, run_after=2023-05-27T01:19:43.095896+00:00
+[2023-05-26 22:19:43,117] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2023-05-26 22:20:33,560] {processor.py:153} INFO - Started process (PID=30203) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:20:33,572] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:20:33,573] {logging_mixin.py:115} INFO - [2023-05-26 22:20:33,572] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:20:33,581] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:20:33,623] {logging_mixin.py:115} INFO - [2023-05-26 22:20:33,623] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:20:33,658] {logging_mixin.py:115} INFO - [2023-05-26 22:20:33,658] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:20:33.658454+00:00, run_after=2023-05-27T01:20:33.658454+00:00
+[2023-05-26 22:20:33,685] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.128 seconds
+[2023-05-26 22:21:08,511] {processor.py:153} INFO - Started process (PID=30428) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:21:08,525] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:21:08,525] {logging_mixin.py:115} INFO - [2023-05-26 22:21:08,525] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:21:08,531] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:21:08,551] {logging_mixin.py:115} INFO - [2023-05-26 22:21:08,550] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:21:08,567] {logging_mixin.py:115} INFO - [2023-05-26 22:21:08,567] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:21:08.566976+00:00, run_after=2023-05-27T01:21:08.566976+00:00
+[2023-05-26 22:21:08,582] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2023-05-26 22:21:44,060] {processor.py:153} INFO - Started process (PID=30623) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:21:44,061] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:21:44,062] {logging_mixin.py:115} INFO - [2023-05-26 22:21:44,062] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:21:44,068] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:21:44,083] {logging_mixin.py:115} INFO - [2023-05-26 22:21:44,083] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:21:44,119] {logging_mixin.py:115} INFO - [2023-05-26 22:21:44,119] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:21:44.118617+00:00, run_after=2023-05-27T01:21:44.118617+00:00
+[2023-05-26 22:21:44,172] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.115 seconds
+[2023-05-26 22:22:21,999] {processor.py:153} INFO - Started process (PID=31023) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:22:22,018] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:22:22,019] {logging_mixin.py:115} INFO - [2023-05-26 22:22:22,018] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:22:22,025] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:22:22,042] {logging_mixin.py:115} INFO - [2023-05-26 22:22:22,042] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:22:22,061] {logging_mixin.py:115} INFO - [2023-05-26 22:22:22,061] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:22:22.060840+00:00, run_after=2023-05-27T01:22:22.060840+00:00
+[2023-05-26 22:22:22,081] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2023-05-26 22:22:56,392] {processor.py:153} INFO - Started process (PID=31110) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:22:56,412] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:22:56,412] {logging_mixin.py:115} INFO - [2023-05-26 22:22:56,412] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:22:56,417] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:22:56,432] {logging_mixin.py:115} INFO - [2023-05-26 22:22:56,432] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:22:56,446] {logging_mixin.py:115} INFO - [2023-05-26 22:22:56,446] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:22:56.446272+00:00, run_after=2023-05-27T01:22:56.446272+00:00
+[2023-05-26 22:22:56,466] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2023-05-26 22:23:32,000] {processor.py:153} INFO - Started process (PID=31205) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:23:32,022] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:23:32,022] {logging_mixin.py:115} INFO - [2023-05-26 22:23:32,022] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:23:32,026] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:23:32,041] {logging_mixin.py:115} INFO - [2023-05-26 22:23:32,041] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:23:32,057] {logging_mixin.py:115} INFO - [2023-05-26 22:23:32,057] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:23:32.057110+00:00, run_after=2023-05-27T01:23:32.057110+00:00
+[2023-05-26 22:23:32,079] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.081 seconds
+[2023-05-26 22:24:06,610] {processor.py:153} INFO - Started process (PID=31291) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:24:06,632] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:24:06,633] {logging_mixin.py:115} INFO - [2023-05-26 22:24:06,633] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:24:06,637] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:24:06,650] {logging_mixin.py:115} INFO - [2023-05-26 22:24:06,650] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:24:06,665] {logging_mixin.py:115} INFO - [2023-05-26 22:24:06,665] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:24:06.665491+00:00, run_after=2023-05-27T01:24:06.665491+00:00
+[2023-05-26 22:24:06,685] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2023-05-26 22:24:40,915] {processor.py:153} INFO - Started process (PID=31378) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:24:40,915] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:24:40,916] {logging_mixin.py:115} INFO - [2023-05-26 22:24:40,916] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:24:40,922] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:24:40,938] {logging_mixin.py:115} INFO - [2023-05-26 22:24:40,938] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:24:40,956] {logging_mixin.py:115} INFO - [2023-05-26 22:24:40,955] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:24:40.955715+00:00, run_after=2023-05-27T01:24:40.955715+00:00
+[2023-05-26 22:24:40,975] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2023-05-26 22:25:15,963] {processor.py:153} INFO - Started process (PID=31472) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:25:15,988] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:25:15,988] {logging_mixin.py:115} INFO - [2023-05-26 22:25:15,988] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:25:15,992] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:25:16,004] {logging_mixin.py:115} INFO - [2023-05-26 22:25:16,004] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:25:16,021] {logging_mixin.py:115} INFO - [2023-05-26 22:25:16,021] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:25:16.021273+00:00, run_after=2023-05-27T01:25:16.021273+00:00
+[2023-05-26 22:25:16,043] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2023-05-26 22:25:54,452] {processor.py:153} INFO - Started process (PID=31785) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:25:54,464] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:25:54,465] {logging_mixin.py:115} INFO - [2023-05-26 22:25:54,465] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:25:54,471] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:25:54,496] {logging_mixin.py:115} INFO - [2023-05-26 22:25:54,496] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:25:54,521] {logging_mixin.py:115} INFO - [2023-05-26 22:25:54,521] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:25:54.521276+00:00, run_after=2023-05-27T01:25:54.521276+00:00
+[2023-05-26 22:25:54,583] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.134 seconds
+[2023-05-26 22:26:33,638] {processor.py:153} INFO - Started process (PID=31922) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:26:33,641] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:26:33,642] {logging_mixin.py:115} INFO - [2023-05-26 22:26:33,642] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:26:33,647] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:26:33,663] {logging_mixin.py:115} INFO - [2023-05-26 22:26:33,663] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:26:33,682] {logging_mixin.py:115} INFO - [2023-05-26 22:26:33,682] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:26:33.682402+00:00, run_after=2023-05-27T01:26:33.682402+00:00
+[2023-05-26 22:26:33,708] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2023-05-26 22:27:12,007] {processor.py:153} INFO - Started process (PID=32052) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:27:12,025] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:27:12,026] {logging_mixin.py:115} INFO - [2023-05-26 22:27:12,026] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:27:12,030] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:27:12,044] {logging_mixin.py:115} INFO - [2023-05-26 22:27:12,044] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:27:12,062] {logging_mixin.py:115} INFO - [2023-05-26 22:27:12,062] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:27:12.061909+00:00, run_after=2023-05-27T01:27:12.061909+00:00
+[2023-05-26 22:27:12,085] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.080 seconds
+[2023-05-26 22:27:49,488] {processor.py:153} INFO - Started process (PID=32196) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:27:49,507] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:27:49,508] {logging_mixin.py:115} INFO - [2023-05-26 22:27:49,508] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:27:49,517] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:27:49,550] {logging_mixin.py:115} INFO - [2023-05-26 22:27:49,549] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:27:49,613] {logging_mixin.py:115} INFO - [2023-05-26 22:27:49,612] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:27:49.612257+00:00, run_after=2023-05-27T01:27:49.612257+00:00
+[2023-05-26 22:27:49,658] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.174 seconds
+[2023-05-26 22:28:30,975] {processor.py:153} INFO - Started process (PID=32301) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:28:30,997] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:28:30,997] {logging_mixin.py:115} INFO - [2023-05-26 22:28:30,997] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:28:31,001] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:28:31,023] {logging_mixin.py:115} INFO - [2023-05-26 22:28:31,023] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:28:31,042] {logging_mixin.py:115} INFO - [2023-05-26 22:28:31,042] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:28:31.041877+00:00, run_after=2023-05-27T01:28:31.041877+00:00
+[2023-05-26 22:28:31,067] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.095 seconds
+[2023-05-26 22:29:05,418] {processor.py:153} INFO - Started process (PID=32386) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:29:05,441] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:29:05,441] {logging_mixin.py:115} INFO - [2023-05-26 22:29:05,441] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:29:05,445] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:29:05,459] {logging_mixin.py:115} INFO - [2023-05-26 22:29:05,459] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:29:05,475] {logging_mixin.py:115} INFO - [2023-05-26 22:29:05,475] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:29:05.475234+00:00, run_after=2023-05-27T01:29:05.475234+00:00
+[2023-05-26 22:29:05,497] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.081 seconds
+[2023-05-26 22:29:41,411] {processor.py:153} INFO - Started process (PID=32478) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:29:41,415] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:29:41,416] {logging_mixin.py:115} INFO - [2023-05-26 22:29:41,416] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:29:41,420] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:29:41,434] {logging_mixin.py:115} INFO - [2023-05-26 22:29:41,434] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:29:41,449] {logging_mixin.py:115} INFO - [2023-05-26 22:29:41,449] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:29:41.448881+00:00, run_after=2023-05-27T01:29:41.448881+00:00
+[2023-05-26 22:29:41,471] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.062 seconds
+[2023-05-26 22:30:16,355] {processor.py:153} INFO - Started process (PID=32569) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:30:16,386] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:30:16,387] {logging_mixin.py:115} INFO - [2023-05-26 22:30:16,387] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:30:16,391] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:30:16,409] {logging_mixin.py:115} INFO - [2023-05-26 22:30:16,409] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:30:16,433] {logging_mixin.py:115} INFO - [2023-05-26 22:30:16,433] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:30:16.433189+00:00, run_after=2023-05-27T01:30:16.433189+00:00
+[2023-05-26 22:30:16,455] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.103 seconds
+[2023-05-26 22:30:52,055] {processor.py:153} INFO - Started process (PID=312) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:30:52,058] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:30:52,059] {logging_mixin.py:115} INFO - [2023-05-26 22:30:52,059] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:30:52,064] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:30:52,080] {logging_mixin.py:115} INFO - [2023-05-26 22:30:52,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:30:52,099] {logging_mixin.py:115} INFO - [2023-05-26 22:30:52,098] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:30:52.098748+00:00, run_after=2023-05-27T01:30:52.098748+00:00
+[2023-05-26 22:30:52,116] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2023-05-26 22:31:27,785] {processor.py:153} INFO - Started process (PID=433) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:31:27,789] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:31:27,790] {logging_mixin.py:115} INFO - [2023-05-26 22:31:27,790] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:31:27,794] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:31:27,808] {logging_mixin.py:115} INFO - [2023-05-26 22:31:27,808] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:31:27,824] {logging_mixin.py:115} INFO - [2023-05-26 22:31:27,824] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:31:27.824434+00:00, run_after=2023-05-27T01:31:27.824434+00:00
+[2023-05-26 22:31:27,842] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds
+[2023-05-26 22:32:02,260] {processor.py:153} INFO - Started process (PID=619) to work on /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:32:02,265] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-05-26 22:32:02,265] {logging_mixin.py:115} INFO - [2023-05-26 22:32:02,265] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:32:02,270] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-05-26 22:32:02,283] {logging_mixin.py:115} INFO - [2023-05-26 22:32:02,283] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:32:02,300] {logging_mixin.py:115} INFO - [2023-05-26 22:32:02,300] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-05-26T21:32:02.299901+00:00, run_after=2023-05-27T01:32:02.299901+00:00
+[2023-05-26 22:32:02,319] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.062 seconds

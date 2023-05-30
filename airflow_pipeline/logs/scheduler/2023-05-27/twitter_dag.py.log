@@ -1,0 +1,622 @@
+[2023-05-26 22:03:14,177] {processor.py:153} INFO - Started process (PID=25757) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:03:14,177] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:03:14,178] {logging_mixin.py:115} INFO - [2023-05-26 22:03:14,178] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:03:14,182] {logging_mixin.py:115} INFO - [2023-05-26 22:03:14,181] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:03:14,183] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:03:14,213] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.040 seconds
+[2023-05-26 22:03:52,754] {processor.py:153} INFO - Started process (PID=26172) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:03:52,757] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:03:52,758] {logging_mixin.py:115} INFO - [2023-05-26 22:03:52,758] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:03:52,768] {logging_mixin.py:115} INFO - [2023-05-26 22:03:52,767] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:03:52,768] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:03:52,803] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-05-26 22:04:25,855] {processor.py:153} INFO - Started process (PID=26306) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:04:25,862] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:04:25,863] {logging_mixin.py:115} INFO - [2023-05-26 22:04:25,863] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:04:25,865] {logging_mixin.py:115} INFO - [2023-05-26 22:04:25,864] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:04:25,865] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:04:25,888] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.035 seconds
+[2023-05-26 22:04:57,385] {processor.py:153} INFO - Started process (PID=26609) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:04:57,386] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:04:57,386] {logging_mixin.py:115} INFO - [2023-05-26 22:04:57,386] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:04:57,388] {logging_mixin.py:115} INFO - [2023-05-26 22:04:57,388] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:04:57,389] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:04:57,412] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.029 seconds
+[2023-05-26 22:05:28,799] {processor.py:153} INFO - Started process (PID=26830) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:05:28,808] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:05:28,809] {logging_mixin.py:115} INFO - [2023-05-26 22:05:28,809] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:05:28,811] {logging_mixin.py:115} INFO - [2023-05-26 22:05:28,810] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:05:28,811] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:05:28,834] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.037 seconds
+[2023-05-26 22:06:03,016] {processor.py:153} INFO - Started process (PID=26970) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:06:03,025] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:06:03,026] {logging_mixin.py:115} INFO - [2023-05-26 22:06:03,026] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:06:03,029] {logging_mixin.py:115} INFO - [2023-05-26 22:06:03,028] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:06:03,029] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:06:03,053] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.040 seconds
+[2023-05-26 22:06:35,584] {processor.py:153} INFO - Started process (PID=27107) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:06:35,584] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:06:35,584] {logging_mixin.py:115} INFO - [2023-05-26 22:06:35,584] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:06:35,587] {logging_mixin.py:115} INFO - [2023-05-26 22:06:35,586] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:06:35,587] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:06:35,622] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.040 seconds
+[2023-05-26 22:07:09,356] {processor.py:153} INFO - Started process (PID=27246) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:07:09,367] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:07:09,368] {logging_mixin.py:115} INFO - [2023-05-26 22:07:09,368] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:07:09,370] {logging_mixin.py:115} INFO - [2023-05-26 22:07:09,369] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:07:09,370] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:07:09,392] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.038 seconds
+[2023-05-26 22:07:45,563] {processor.py:153} INFO - Started process (PID=27333) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:07:45,576] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:07:45,577] {logging_mixin.py:115} INFO - [2023-05-26 22:07:45,577] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:07:45,579] {logging_mixin.py:115} INFO - [2023-05-26 22:07:45,578] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:07:45,579] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:07:45,603] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-05-26 22:08:16,539] {processor.py:153} INFO - Started process (PID=27467) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:08:16,540] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:08:16,540] {logging_mixin.py:115} INFO - [2023-05-26 22:08:16,540] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:08:16,542] {logging_mixin.py:115} INFO - [2023-05-26 22:08:16,542] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:08:16,542] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:08:16,579] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.042 seconds
+[2023-05-26 22:08:49,575] {processor.py:153} INFO - Started process (PID=27553) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:08:49,594] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:08:49,594] {logging_mixin.py:115} INFO - [2023-05-26 22:08:49,594] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:08:49,598] {logging_mixin.py:115} INFO - [2023-05-26 22:08:49,597] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:08:49,598] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:08:49,624] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-05-26 22:09:25,843] {processor.py:153} INFO - Started process (PID=27743) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:09:25,847] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:09:25,847] {logging_mixin.py:115} INFO - [2023-05-26 22:09:25,847] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:09:25,849] {logging_mixin.py:115} INFO - [2023-05-26 22:09:25,849] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:09:25,849] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:09:25,874] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.034 seconds
+[2023-05-26 22:09:57,229] {processor.py:153} INFO - Started process (PID=27822) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:09:57,229] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:09:57,230] {logging_mixin.py:115} INFO - [2023-05-26 22:09:57,229] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:09:57,232] {logging_mixin.py:115} INFO - [2023-05-26 22:09:57,231] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:09:57,232] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:09:57,270] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-05-26 22:10:27,693] {processor.py:153} INFO - Started process (PID=27897) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:10:27,715] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:10:27,716] {logging_mixin.py:115} INFO - [2023-05-26 22:10:27,716] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:10:27,718] {logging_mixin.py:115} INFO - [2023-05-26 22:10:27,717] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:10:27,718] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:10:27,739] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.048 seconds
+[2023-05-26 22:10:58,381] {processor.py:153} INFO - Started process (PID=27974) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:10:58,382] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:10:58,382] {logging_mixin.py:115} INFO - [2023-05-26 22:10:58,382] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:10:58,384] {logging_mixin.py:115} INFO - [2023-05-26 22:10:58,383] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:10:58,384] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:10:58,423] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.045 seconds
+[2023-05-26 22:11:31,642] {processor.py:153} INFO - Started process (PID=28057) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:11:31,645] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:11:31,645] {logging_mixin.py:115} INFO - [2023-05-26 22:11:31,645] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:11:31,648] {logging_mixin.py:115} INFO - [2023-05-26 22:11:31,647] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from .operators.twitter_operator import TwitterOperator
+ImportError: attempted relative import with no known parent package
+[2023-05-26 22:11:31,648] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:11:31,673] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.034 seconds
+[2023-05-26 22:12:03,666] {processor.py:153} INFO - Started process (PID=28147) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:12:03,670] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:12:03,671] {logging_mixin.py:115} INFO - [2023-05-26 22:12:03,671] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:12:03,674] {logging_mixin.py:115} INFO - [2023-05-26 22:12:03,674] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:12:03,675] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:12:03,697] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.034 seconds
+[2023-05-26 22:12:38,083] {processor.py:153} INFO - Started process (PID=28386) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:12:38,085] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:12:38,086] {logging_mixin.py:115} INFO - [2023-05-26 22:12:38,086] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:12:38,092] {logging_mixin.py:115} INFO - [2023-05-26 22:12:38,089] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:12:38,093] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:12:38,127] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.049 seconds
+[2023-05-26 22:13:08,458] {processor.py:153} INFO - Started process (PID=28463) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:13:08,459] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:13:08,459] {logging_mixin.py:115} INFO - [2023-05-26 22:13:08,459] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:13:08,461] {logging_mixin.py:115} INFO - [2023-05-26 22:13:08,461] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:13:08,461] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:13:08,497] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.042 seconds
+[2023-05-26 22:13:40,154] {processor.py:153} INFO - Started process (PID=28592) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:13:40,173] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:13:40,174] {logging_mixin.py:115} INFO - [2023-05-26 22:13:40,173] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:13:40,176] {logging_mixin.py:115} INFO - [2023-05-26 22:13:40,175] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:13:40,176] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:13:40,202] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.050 seconds
+[2023-05-26 22:14:11,851] {processor.py:153} INFO - Started process (PID=28675) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:14:11,870] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:14:11,871] {logging_mixin.py:115} INFO - [2023-05-26 22:14:11,870] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:14:11,873] {logging_mixin.py:115} INFO - [2023-05-26 22:14:11,872] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:14:11,873] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:14:11,897] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.048 seconds
+[2023-05-26 22:14:42,191] {processor.py:153} INFO - Started process (PID=28748) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:14:42,192] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:14:42,192] {logging_mixin.py:115} INFO - [2023-05-26 22:14:42,192] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:14:42,194] {logging_mixin.py:115} INFO - [2023-05-26 22:14:42,194] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:14:42,194] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:14:42,229] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.040 seconds
+[2023-05-26 22:15:13,146] {processor.py:153} INFO - Started process (PID=28824) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:15:13,167] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:15:13,168] {logging_mixin.py:115} INFO - [2023-05-26 22:15:13,167] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:15:13,170] {logging_mixin.py:115} INFO - [2023-05-26 22:15:13,169] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:15:13,170] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:15:13,195] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.051 seconds
+[2023-05-26 22:15:44,589] {processor.py:153} INFO - Started process (PID=28904) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:15:44,589] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:15:44,590] {logging_mixin.py:115} INFO - [2023-05-26 22:15:44,589] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:15:44,592] {logging_mixin.py:115} INFO - [2023-05-26 22:15:44,591] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:15:44,592] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:15:44,616] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-05-26 22:16:15,973] {processor.py:153} INFO - Started process (PID=28981) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:16:15,997] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:16:15,999] {logging_mixin.py:115} INFO - [2023-05-26 22:16:15,998] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:16:16,002] {logging_mixin.py:115} INFO - [2023-05-26 22:16:16,001] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:16:16,002] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:16:16,028] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-05-26 22:16:48,422] {processor.py:153} INFO - Started process (PID=29062) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:16:48,447] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:16:48,447] {logging_mixin.py:115} INFO - [2023-05-26 22:16:48,447] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:16:48,449] {logging_mixin.py:115} INFO - [2023-05-26 22:16:48,449] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:16:48,450] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:16:48,473] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-05-26 22:17:22,955] {processor.py:153} INFO - Started process (PID=29148) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:17:22,981] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:17:22,981] {logging_mixin.py:115} INFO - [2023-05-26 22:17:22,981] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:17:22,983] {logging_mixin.py:115} INFO - [2023-05-26 22:17:22,983] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:17:22,983] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:17:23,007] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-05-26 22:17:54,260] {processor.py:153} INFO - Started process (PID=29224) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:17:54,260] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:17:54,261] {logging_mixin.py:115} INFO - [2023-05-26 22:17:54,261] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:17:54,263] {logging_mixin.py:115} INFO - [2023-05-26 22:17:54,262] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:17:54,263] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:17:54,288] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-05-26 22:18:25,453] {processor.py:153} INFO - Started process (PID=29351) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:18:25,456] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:18:25,457] {logging_mixin.py:115} INFO - [2023-05-26 22:18:25,457] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:18:25,460] {logging_mixin.py:115} INFO - [2023-05-26 22:18:25,459] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:18:25,460] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:18:25,488] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.038 seconds
+[2023-05-26 22:18:56,437] {processor.py:153} INFO - Started process (PID=29427) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:18:56,437] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:18:56,438] {logging_mixin.py:115} INFO - [2023-05-26 22:18:56,437] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:18:56,440] {logging_mixin.py:115} INFO - [2023-05-26 22:18:56,439] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:18:56,440] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:18:56,481] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.047 seconds
+[2023-05-26 22:19:29,793] {processor.py:153} INFO - Started process (PID=29675) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:19:29,802] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:19:29,803] {logging_mixin.py:115} INFO - [2023-05-26 22:19:29,803] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:19:29,805] {logging_mixin.py:115} INFO - [2023-05-26 22:19:29,804] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:19:29,805] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:19:29,829] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.038 seconds
+[2023-05-26 22:20:04,847] {processor.py:153} INFO - Started process (PID=29881) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:04,849] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:20:04,850] {logging_mixin.py:115} INFO - [2023-05-26 22:20:04,850] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:04,853] {logging_mixin.py:115} INFO - [2023-05-26 22:20:04,852] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:20:04,854] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:04,880] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.036 seconds
+[2023-05-26 22:20:15,968] {processor.py:153} INFO - Started process (PID=29980) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:15,969] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:20:15,969] {logging_mixin.py:115} INFO - [2023-05-26 22:20:15,969] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:15,973] {logging_mixin.py:115} INFO - [2023-05-26 22:20:15,972] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+ModuleNotFoundError: No module named 'operators'
+[2023-05-26 22:20:15,974] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:16,014] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.049 seconds
+[2023-05-26 22:20:53,049] {processor.py:153} INFO - Started process (PID=30284) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:53,062] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:20:53,062] {logging_mixin.py:115} INFO - [2023-05-26 22:20:53,062] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:53,066] {logging_mixin.py:115} INFO - [2023-05-26 22:20:53,065] {dagbag.py:320} ERROR - Failed to import: /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+Traceback (most recent call last):
+  File "/home/raf/pipeline-transform/.venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 855, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py", line 3, in <module>
+    from operators.twitter_operator import TwitterOperator
+  File "/home/raf/pipeline-transform/airflow_pipeline/dags/operators/twitter_operator.py", line 5, in <module>
+    from hook.twitter_hook import TwitterHook
+ModuleNotFoundError: No module named 'hook'
+[2023-05-26 22:20:53,066] {processor.py:653} WARNING - No viable dags retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:20:53,092] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.046 seconds
+[2023-05-26 22:21:25,559] {processor.py:153} INFO - Started process (PID=30575) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:21:25,576] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:21:25,576] {logging_mixin.py:115} INFO - [2023-05-26 22:21:25,576] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:21:25,594] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:21:25,683] {logging_mixin.py:115} INFO - [2023-05-26 22:21:25,683] {manager.py:508} INFO - Created Permission View: can delete on DAG:TwitterDAG
+[2023-05-26 22:21:25,700] {logging_mixin.py:115} INFO - [2023-05-26 22:21:25,700] {manager.py:508} INFO - Created Permission View: can read on DAG:TwitterDAG
+[2023-05-26 22:21:25,715] {logging_mixin.py:115} INFO - [2023-05-26 22:21:25,715] {manager.py:508} INFO - Created Permission View: can edit on DAG:TwitterDAG
+[2023-05-26 22:21:25,716] {logging_mixin.py:115} INFO - [2023-05-26 22:21:25,716] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:21:25,725] {logging_mixin.py:115} INFO - [2023-05-26 22:21:25,725] {dag.py:2398} INFO - Creating ORM DAG for TwitterDAG
+[2023-05-26 22:21:25,733] {logging_mixin.py:115} INFO - [2023-05-26 22:21:25,733] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-25T00:00:00+00:00, run_after=2023-05-26T00:00:00+00:00
+[2023-05-26 22:21:25,764] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.207 seconds
+[2023-05-26 22:22:00,242] {processor.py:153} INFO - Started process (PID=30818) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:22:00,256] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:22:00,257] {logging_mixin.py:115} INFO - [2023-05-26 22:22:00,257] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:22:00,265] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:22:00,279] {logging_mixin.py:115} INFO - [2023-05-26 22:22:00,279] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:22:00,297] {logging_mixin.py:115} INFO - [2023-05-26 22:22:00,297] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:22:00,318] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.079 seconds
+[2023-05-26 22:22:32,330] {processor.py:153} INFO - Started process (PID=31049) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:22:32,348] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:22:32,349] {logging_mixin.py:115} INFO - [2023-05-26 22:22:32,349] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:22:32,372] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:22:32,406] {logging_mixin.py:115} INFO - [2023-05-26 22:22:32,406] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:22:32,443] {logging_mixin.py:115} INFO - [2023-05-26 22:22:32,443] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:22:32,472] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.144 seconds
+[2023-05-26 22:23:06,199] {processor.py:153} INFO - Started process (PID=31140) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:23:06,220] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:23:06,221] {logging_mixin.py:115} INFO - [2023-05-26 22:23:06,220] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:23:06,230] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:23:06,246] {logging_mixin.py:115} INFO - [2023-05-26 22:23:06,246] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:23:06,265] {logging_mixin.py:115} INFO - [2023-05-26 22:23:06,265] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:23:06,284] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.087 seconds
+[2023-05-26 22:23:39,616] {processor.py:153} INFO - Started process (PID=31225) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:23:39,616] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:23:39,617] {logging_mixin.py:115} INFO - [2023-05-26 22:23:39,617] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:23:39,624] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:23:39,639] {logging_mixin.py:115} INFO - [2023-05-26 22:23:39,639] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:23:39,658] {logging_mixin.py:115} INFO - [2023-05-26 22:23:39,658] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:23:39,688] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.075 seconds
+[2023-05-26 22:24:14,755] {processor.py:153} INFO - Started process (PID=31311) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:24:14,777] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:24:14,778] {logging_mixin.py:115} INFO - [2023-05-26 22:24:14,778] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:24:14,786] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:24:14,802] {logging_mixin.py:115} INFO - [2023-05-26 22:24:14,802] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:24:14,823] {logging_mixin.py:115} INFO - [2023-05-26 22:24:14,822] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:24:14,851] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.099 seconds
+[2023-05-26 22:24:48,811] {processor.py:153} INFO - Started process (PID=31397) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:24:48,835] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:24:48,835] {logging_mixin.py:115} INFO - [2023-05-26 22:24:48,835] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:24:48,842] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:24:48,855] {logging_mixin.py:115} INFO - [2023-05-26 22:24:48,855] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:24:48,872] {logging_mixin.py:115} INFO - [2023-05-26 22:24:48,872] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:24:48,892] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.083 seconds
+[2023-05-26 22:25:22,963] {processor.py:153} INFO - Started process (PID=31566) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:25:22,966] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:25:22,983] {logging_mixin.py:115} INFO - [2023-05-26 22:25:22,983] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:25:23,015] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:25:23,055] {logging_mixin.py:115} INFO - [2023-05-26 22:25:23,055] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:25:23,101] {logging_mixin.py:115} INFO - [2023-05-26 22:25:23,101] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:25:23,139] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.180 seconds
+[2023-05-26 22:25:56,877] {processor.py:153} INFO - Started process (PID=31817) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:25:56,883] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:25:56,884] {logging_mixin.py:115} INFO - [2023-05-26 22:25:56,884] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:25:56,890] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:25:56,904] {logging_mixin.py:115} INFO - [2023-05-26 22:25:56,904] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:25:56,923] {logging_mixin.py:115} INFO - [2023-05-26 22:25:56,923] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:25:56,942] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.067 seconds
+[2023-05-26 22:26:32,090] {processor.py:153} INFO - Started process (PID=31917) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:26:32,092] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:26:32,092] {logging_mixin.py:115} INFO - [2023-05-26 22:26:32,092] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:26:32,102] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:26:32,119] {logging_mixin.py:115} INFO - [2023-05-26 22:26:32,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:26:32,140] {logging_mixin.py:115} INFO - [2023-05-26 22:26:32,140] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:26:32,162] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.076 seconds
+[2023-05-26 22:27:09,279] {processor.py:153} INFO - Started process (PID=32046) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:27:09,297] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:27:09,298] {logging_mixin.py:115} INFO - [2023-05-26 22:27:09,298] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:27:09,305] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:27:09,318] {logging_mixin.py:115} INFO - [2023-05-26 22:27:09,318] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:27:09,334] {logging_mixin.py:115} INFO - [2023-05-26 22:27:09,334] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:27:09,358] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.081 seconds
+[2023-05-26 22:27:46,005] {processor.py:153} INFO - Started process (PID=32175) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:27:46,025] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:27:46,026] {logging_mixin.py:115} INFO - [2023-05-26 22:27:46,025] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:27:46,033] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:27:46,046] {logging_mixin.py:115} INFO - [2023-05-26 22:27:46,046] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:27:46,062] {logging_mixin.py:115} INFO - [2023-05-26 22:27:46,062] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:27:46,085] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.082 seconds
+[2023-05-26 22:28:19,539] {processor.py:153} INFO - Started process (PID=32270) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:28:19,560] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:28:19,561] {logging_mixin.py:115} INFO - [2023-05-26 22:28:19,561] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:28:19,569] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:28:19,584] {logging_mixin.py:115} INFO - [2023-05-26 22:28:19,584] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:28:19,602] {logging_mixin.py:115} INFO - [2023-05-26 22:28:19,602] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:28:19,624] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.088 seconds
+[2023-05-26 22:28:49,663] {processor.py:153} INFO - Started process (PID=32349) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:28:49,663] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:28:49,664] {logging_mixin.py:115} INFO - [2023-05-26 22:28:49,664] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:28:49,678] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:28:49,699] {logging_mixin.py:115} INFO - [2023-05-26 22:28:49,699] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:28:49,725] {logging_mixin.py:115} INFO - [2023-05-26 22:28:49,725] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:28:49,761] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.102 seconds
+[2023-05-26 22:29:21,840] {processor.py:153} INFO - Started process (PID=32429) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:29:21,852] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:29:21,853] {logging_mixin.py:115} INFO - [2023-05-26 22:29:21,853] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:29:21,860] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:29:21,875] {logging_mixin.py:115} INFO - [2023-05-26 22:29:21,875] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:29:21,892] {logging_mixin.py:115} INFO - [2023-05-26 22:29:21,892] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:29:21,916] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.078 seconds
+[2023-05-26 22:29:57,767] {processor.py:153} INFO - Started process (PID=32521) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:29:57,792] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:29:57,793] {logging_mixin.py:115} INFO - [2023-05-26 22:29:57,793] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:29:57,799] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:29:57,813] {logging_mixin.py:115} INFO - [2023-05-26 22:29:57,813] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:29:57,830] {logging_mixin.py:115} INFO - [2023-05-26 22:29:57,830] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:29:57,851] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.086 seconds
+[2023-05-26 22:30:33,933] {processor.py:153} INFO - Started process (PID=32733) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:30:33,959] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:30:33,959] {logging_mixin.py:115} INFO - [2023-05-26 22:30:33,959] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:30:33,966] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:30:33,980] {logging_mixin.py:115} INFO - [2023-05-26 22:30:33,979] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:30:33,997] {logging_mixin.py:115} INFO - [2023-05-26 22:30:33,997] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:30:34,016] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.086 seconds
+[2023-05-26 22:31:07,593] {processor.py:153} INFO - Started process (PID=384) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:31:07,598] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:31:07,599] {logging_mixin.py:115} INFO - [2023-05-26 22:31:07,599] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:31:07,606] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:31:07,650] {logging_mixin.py:115} INFO - [2023-05-26 22:31:07,650] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:31:07,747] {logging_mixin.py:115} INFO - [2023-05-26 22:31:07,746] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:31:07,858] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.268 seconds
+[2023-05-26 22:31:39,730] {processor.py:153} INFO - Started process (PID=461) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:31:39,734] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:31:39,734] {logging_mixin.py:115} INFO - [2023-05-26 22:31:39,734] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:31:39,742] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:31:39,755] {logging_mixin.py:115} INFO - [2023-05-26 22:31:39,755] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:31:39,772] {logging_mixin.py:115} INFO - [2023-05-26 22:31:39,772] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:31:39,791] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.064 seconds
+[2023-05-26 22:32:11,264] {processor.py:153} INFO - Started process (PID=641) to work on /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:32:11,270] {processor.py:641} INFO - Processing file /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-05-26 22:32:11,270] {logging_mixin.py:115} INFO - [2023-05-26 22:32:11,270] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:32:11,277] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py
+[2023-05-26 22:32:11,291] {logging_mixin.py:115} INFO - [2023-05-26 22:32:11,291] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 22:32:11,308] {logging_mixin.py:115} INFO - [2023-05-26 22:32:11,308] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-05-27T00:00:00+00:00, run_after=2023-05-28T00:00:00+00:00
+[2023-05-26 22:32:11,327] {processor.py:161} INFO - Processing /home/raf/pipeline-transform/airflow_pipeline/dags/twitter_dag.py took 0.065 seconds

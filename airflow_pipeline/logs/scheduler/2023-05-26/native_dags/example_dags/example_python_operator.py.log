@@ -1,0 +1,46 @@
+[2023-05-26 15:08:37,317] {processor.py:153} INFO - Started process (PID=8284) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:08:37,317] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-05-26 15:08:37,328] {logging_mixin.py:115} INFO - [2023-05-26 15:08:37,328] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:08:37,376] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:08:37,670] {logging_mixin.py:115} INFO - [2023-05-26 15:08:37,670] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2023-05-26 15:08:37,742] {logging_mixin.py:115} INFO - [2023-05-26 15:08:37,742] {manager.py:508} INFO - Created Permission View: can read on DAG:example_python_operator
+[2023-05-26 15:08:37,793] {logging_mixin.py:115} INFO - [2023-05-26 15:08:37,793] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2023-05-26 15:08:37,794] {logging_mixin.py:115} INFO - [2023-05-26 15:08:37,794] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:08:37,820] {logging_mixin.py:115} INFO - [2023-05-26 15:08:37,820] {dag.py:2398} INFO - Creating ORM DAG for example_python_operator
+[2023-05-26 15:08:37,833] {logging_mixin.py:115} INFO - [2023-05-26 15:08:37,833] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-05-26 15:08:37,937] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.624 seconds
+[2023-05-26 15:12:20,446] {processor.py:153} INFO - Started process (PID=8831) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:12:20,460] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-05-26 15:12:20,460] {logging_mixin.py:115} INFO - [2023-05-26 15:12:20,460] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:12:20,494] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:12:20,546] {logging_mixin.py:115} INFO - [2023-05-26 15:12:20,546] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:12:20,626] {logging_mixin.py:115} INFO - [2023-05-26 15:12:20,626] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-05-26 15:12:20,677] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.235 seconds
+[2023-05-26 15:13:03,316] {processor.py:153} INFO - Started process (PID=8901) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:13:03,339] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-05-26 15:13:03,340] {logging_mixin.py:115} INFO - [2023-05-26 15:13:03,339] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:13:03,404] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:13:03,440] {logging_mixin.py:115} INFO - [2023-05-26 15:13:03,440] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:13:03,469] {logging_mixin.py:115} INFO - [2023-05-26 15:13:03,469] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-05-26 15:13:03,568] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.255 seconds
+[2023-05-26 15:13:46,055] {processor.py:153} INFO - Started process (PID=8971) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:13:46,087] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-05-26 15:13:46,088] {logging_mixin.py:115} INFO - [2023-05-26 15:13:46,088] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:13:46,107] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:13:46,122] {logging_mixin.py:115} INFO - [2023-05-26 15:13:46,122] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:13:46,150] {logging_mixin.py:115} INFO - [2023-05-26 15:13:46,150] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-05-26 15:13:46,208] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.156 seconds
+[2023-05-26 15:14:27,300] {processor.py:153} INFO - Started process (PID=9070) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:14:27,304] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-05-26 15:14:27,305] {logging_mixin.py:115} INFO - [2023-05-26 15:14:27,305] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:14:27,357] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:14:27,429] {logging_mixin.py:115} INFO - [2023-05-26 15:14:27,429] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:14:27,511] {logging_mixin.py:115} INFO - [2023-05-26 15:14:27,511] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-05-26 15:14:27,596] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.312 seconds
+[2023-05-26 15:15:04,899] {processor.py:153} INFO - Started process (PID=9134) to work on /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:15:05,009] {processor.py:641} INFO - Processing file /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-05-26 15:15:05,009] {logging_mixin.py:115} INFO - [2023-05-26 15:15:05,009] {dagbag.py:507} INFO - Filling up the DagBag from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:15:05,068] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-05-26 15:15:05,191] {logging_mixin.py:115} INFO - [2023-05-26 15:15:05,191] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-26 15:15:05,263] {logging_mixin.py:115} INFO - [2023-05-26 15:15:05,263] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-05-26 15:15:05,348] {processor.py:161} INFO - Processing /home/raf/pipeline/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.463 seconds
